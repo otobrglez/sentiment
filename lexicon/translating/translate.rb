@@ -3,9 +3,9 @@ require 'nokogiri'
 if ARGV.size != 3
   puts <<-END
 Usage:
-  #$0 [path to slownet] [path to positive words] [path to negative words]
+  #$0 [path to slownet] [path to list of words] [out file]
 
-  NOTE: files with positive and negative words must only contain one word per line
+  NOTE: files with words must only contain one word per line
   END
   exit
 end
@@ -17,22 +17,20 @@ def get_synonyms(eng)
   @slownet.xpath("//SYNONYM[@xml:lang='eng']/LITERAL[text()='#{eng}']/../../ID").each do|hit|
     hit.parent.xpath("SYNONYM[@xml:lang='slv']/LITERAL/text()").each {|synonym| synonyms << synonym }
   end
-  synonyms.map(&:to_s).uniq.join(" ")
+  synonyms.map(&:to_s).uniq.join("|")
 end
 
-def construct_synonyms(infile, outfile)
+def construct_synonyms_file(infile, outfile)
   count = 0
   File.open(outfile, "w") do|fout|
     File.open(infile, "r") do|fin|
-      fin.each_line do |line|
-        fout.puts(get_synonyms line.chomp)
+      fin.each_line do |word|
+        fout.puts(get_synonyms word.chomp)
         puts "processed #{count} words..." if (count += 1) % 10 == 0
       end
     end
   end
 end
 
-puts "checking positive words..."
-construct_synonyms(ARGV[1], "tr-positive-tmp.txt")
-puts "checking negative words..."
-construct_synonyms(ARGV[2], "tr-negative-tmp.txt")
+puts "checking #{ARGV[1]}..."
+construct_synonyms_file(ARGV[1], ARGV[2])
