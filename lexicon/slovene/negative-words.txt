@@ -21,13 +21,13 @@ akumulirati
 alarm
 alarmanten
 alarmirati
-alarmna
+alarmna naprava
 aleatoričen
 alergija
 amaterski
 ambivalenca
 ambivalenten
-ameiurus
+ameiurus melas
 amortizer
 amputirati
 anarhičen
@@ -72,12 +72,13 @@ babjevernost
 babji
 babura
 bahač
-bahati
+bahati se
 bahav
 bajka
-bajni
+bajni zaslužek
 bakterija
 banalen
+banalen izraz
 banalnost
 banavz
 bankrot
@@ -91,6 +92,7 @@ barje
 barvilo
 bastard
 bati
+bati se
 bebast
 bebav
 bebček
@@ -107,7 +109,6 @@ berač
 beračenje
 berserker
 bes
-besede
 beseden
 besedičiti
 besedolomen
@@ -119,9 +120,30 @@ betežnost
 bežati
 bežen
 bimbo
-bipolarna
+bipolarna motnja
 bistvo
-bitje
+biti besen
+biti brezbrižen
+biti deležen
+biti dolgočasen
+biti enak
+biti krivičen do
+biti lačen
+biti neodločen
+biti neprijeten
+biti neudržljiv
+biti obešen
+biti očarljiv
+biti počasen
+biti razkačen
+biti se
+biti skeptičen
+biti tekmec
+biti usmrčen
+biti v
+biti vlažen
+biti žejen
+biti zmagovit
 bitka
 bivati
 bizantinski
@@ -139,7 +161,7 @@ blaznica
 blaznost
 blebetač
 bled
-bližati
+bližati se koncu
 bljuvalo
 bljuvanje
 bljuvati
@@ -168,15 +190,16 @@ bojazljivost
 boječ
 boječnost
 bojevati
+bojevati se
 bojevit
 bojevitost
 bojevnik
 bojkot
-bojna
-bojno
+bojna rana
 bol
 bolan
 bolečina
+bolečina v hrbtu
 bolehen
 bolehnost
 bolesten
@@ -194,10 +217,11 @@ borba
 borben
 borbenost
 boriti
+boriti se
 bosti
 brana
 braniti
-brassica
+brassica napus
 brazda
 brazgotina
 brbljač
@@ -251,7 +275,7 @@ brezzračen
 bridkost
 briga
 brodolom
-bromus
+bromus secalinus
 bruhanje
 bruhati
 brundanje
@@ -290,7 +314,6 @@ cepetljiv
 cepiti
 česen
 četnik
-cev
 ciganiti
 čile
 čili
@@ -300,12 +323,13 @@ ciničen
 cinizem
 cipa
 cisterna
+čisto
 citrus
-človeka
-cmerati
+cmerati se
 cmeriti
+cmeriti se
 cmerjenje
-cmokniti,
+cmokniti, nežno poljubiti
 čofotati
 cokla
 cola
@@ -331,7 +355,7 @@ cvenk
 cvilež
 cviliti
 damping
-dan
+dan poslednje sodbe
 debelinko
 debeliti
 debeloglavec
@@ -352,7 +376,6 @@ degeneracija
 degenerirati
 degradacija
 dehidrirati
-dejanje
 dekadenca
 deklamatorski
 deklamirati
@@ -360,12 +383,12 @@ dekle
 deklica
 deklina
 del
-deležen
+delati krivico
+delati se
 delinkvent
 delirij
-delitev
+delitev delnic
 deliti
-delnic
 demon
 demoralizirati
 denunciacija
@@ -375,7 +398,7 @@ deponirati
 deportacija
 deportiranec
 depresija
-deroč
+deroč tok
 derogirati
 despot
 despotizem
@@ -399,7 +422,7 @@ diletantski
 dim
 direndaj
 dišava
-dišeč
+dišeč dim
 disharmoničen
 disident
 disidentstvo
@@ -420,25 +443,26 @@ dobaviti
 dobavljati
 dogmatizem
 dogodivščina
+dogovoriti se
 dohodek
 dojiti
+dokazati lažnivost
 dokazen
 dolgčas
 dolgočasen
 dolgočasiti
+dolgočasiti se
 dolgočasje
 dolgočasnost
 dolgonos
 dolgovezen
-dolina
 določen
-dolžnosti
 domislica
 domišljav
 domišljavec
 domišljavost
 domneven
-doprsni
+doprsni kip
 dovzeten
 dragocen
 dragonec
@@ -449,27 +473,29 @@ dražilo
 dražljiv
 drek
 drenaža
-dreti
+dreti se
 drgetanje
 drgniti
+drgniti se
 drgnjenje
 droben
 drobitev
 drobiti
+drobiti se
 drobljenje
 drsalka
 drugorazreden
 drugovrsten
-druščina
 drveti
-ducat
 duh
-duhovita
+duhovita domislica
 dumping
 dušek
-duševna
+duševna bolezen
+duševna motnja
 dušilec
 dušiti
+dušiti se
 dvoličen
 dvoličnež
 dvoličnost
@@ -503,8 +529,8 @@ ekstravaganten
 ekstremen
 ekstremizem
 elegija
-električna
-električni
+električna upornost
+električni upor
 elektronegativnost
 elektrostatičen
 eliminacija
@@ -513,7 +539,7 @@ enoličen
 enoličnost
 enostranski
 epidemija
-epipactis
+epipactis gigantea
 erozija
 evakuacija
 evakuirati
@@ -546,7 +572,7 @@ filtrirati
 fingirati
 fink
 finta
-fizično
+fizično delo
 flagranten
 flegma
 flirt
@@ -574,21 +600,21 @@ garati
 garje
 gaženje
 genocid
-geometrijska
+geometrijska nesimetričnost
 geslo
 geto
-gibanje
-gigantea
 ginevati
 giniti
 glad
 gladen
 gladovati
-glagolski
+glagolski čas
 glasen
+glasen prepir
+glasen pretep
 glasno
-glasovna
-glavna
+glasovna premena
+glavna ideja
 glavobol
 glen
 globel
@@ -605,7 +631,7 @@ gniti
 gnitje
 gnjaviti
 gnojišče
-gnojiti
+gnojiti se
 gnus
 gnusen
 gnusnost
@@ -625,11 +651,10 @@ goljufati
 goljufičiti
 goljufija
 goljufiv
-goljufivim
 golobrad
 goltati
 gomila
-gomiliti
+gomiliti se
 goniti
 gonjenje
 gora
@@ -641,23 +666,25 @@ gospodična
 gospodovati
 gospodujoč
 gost
+gost dim
 gostobeseden
 govno
 govorica
 govoričiti
+govoriti rapsodsko
 grabežljiv
 grahast
 graja
 grajalen
 grajati
-grajska
-graveolens
+grajska ječa
 grčast
 grčav
 grčavost
 grd
 grditi
 grdo
+grdo ravnati
 grebsti
 gredica
 greh
@@ -670,6 +697,7 @@ grešnost
 greznica
 grimasa
 gristi
+gristi se
 grmada
 grmeti
 grob
@@ -690,7 +718,6 @@ grozota
 grozoten
 grozotnost
 grozovit
-grušč
 guba
 gulež
 gumast
@@ -700,9 +727,8 @@ gverilec
 halo
 halucinacija
 halucinirati
-harpia
+harpia harpyja
 harpija
-harpyja
 hazarden
 hecanje
 hedonističen
@@ -735,6 +761,7 @@ hlastač
 hlepenje
 hlimba
 hliniti
+hliniti se
 hlinjen
 hlinjenje
 hlipanje
@@ -744,7 +771,6 @@ hoten
 hotljiv
 hotnik
 hrapav
-hrbtu
 hrepenenje
 hreščanje
 hrgast
@@ -758,21 +784,19 @@ hruliti
 hrup
 hrupen
 hrušč
-huda
 hudič
-hudo
 hudoben
 hudobija
 hudobnost
 hudodelec
 hudodelski
 hudodelstvo
+hudo slabo
 hujskač
 hujskanje
 hujskati
 hvalisav
 hvalisavec
-ideja
 idiosinkrazija
 idiot
 idiotizem
@@ -780,16 +804,18 @@ idiotstvo
 ignoranca
 igrača
 igračkanje
-igračkati
-igralna
+igračkati se
+igralna kocka
 igrati
+igrati se
 ihtenje
 ilegalen
 ilegitimen
 imaginaren
-imaginarno
+imaginarno število
 imbecilen
 imbecilnost
+imeti izgubo
 iminenten
 imitacija
 imobilen
@@ -833,22 +859,25 @@ intuicija
 invaliden
 invazija
 invektiva
-iracionalno
 iracionalnost
+iracionalno število
 irelevanten
 irelevantnost
 ireverzibilen
 iritabilen
 ironičen
 ironija
+iti k vragu
+iti po
 ivje
-iz
 izblebetati
 izbljuvati
-izbrana
+izbrana druščina
 izbrisati
+izčrpan
 izčrpanost
 izčrpati
+izčrpati se
 izčvekati
 !?izdahniti
 izdaja
@@ -863,7 +892,7 @@ izdelovati
 izdihniti
 !?izdihniti
 izdolbsti
-izenačiti
+izenačiti se
 izginiti
 izgnanec
 izgnanstvo
@@ -873,14 +902,17 @@ izgorevanje
 izgovor
 izgred
 izgrgrati
-izgrmeti
+izgrmeti se
 izguba
+izguba opreme
+izguba vojaka
 izgubiti
-izgubljati
+izgubiti se
+izgubljati se
 izgubljen
-izgubo
+izhod
 izid
-izjaloviti
+izjaloviti se
 izkaditi
 izklepetati
 izključenost
@@ -908,6 +940,7 @@ izmozgan
 izmozgati
 izmučen
 izmučiti
+izmučiti se
 iznajti
 izneveriti
 izobčenec
@@ -919,7 +952,7 @@ izogniti
 izolacija
 izolirati
 izpahniti
-izplačati
+izplačati se
 izpodbiten
 izpodkopavanje
 izpodnesti
@@ -928,23 +961,25 @@ izpostavljati
 izpovedati
 izpran
 izpraznitev
-izprevreči
+izprevreči se
 izpriditi
 izprijenec
 izprijenost
 izpríjenost
 izpuh
 izpuhtevati
-izpušna
+izpušna odprtina
 izpust
 izpustitev
 izrabljanje
 izrabljen
 izraščen
-izraz
 izraziti
+izredno stanje
+izredno velik
 izrezati
 izroditi
+izroditi se
 izropati
 izseliti
 izseljenec
@@ -960,14 +995,14 @@ iztrebiti
 iztreznitev
 iztrezniti
 iztržek
-izučiti
+izučiti se
 izumiti
 izumrtje
 izvabiti
 izvaliti
 izvinek
 izviniti
-izvleči
+izvleči se
 izvrtina
 izvrženec
 izžemalen
@@ -982,6 +1017,7 @@ izzvati
 jadikovati
 jalov
 jalovost
+jama
 jastrebast
 jastrebji
 javkanje
@@ -992,7 +1028,6 @@ ječati
 jecljanje
 jecljati
 ječmen
-ječo
 jedek
 jedro
 jemati
@@ -1008,12 +1043,10 @@ jezikanje
 jezikav
 jezljivka
 jeznorit
-jo
 jokati
 jokav
 jokavec
 juriš
-k
 kadaver
 kadilo
 kaditi
@@ -1022,10 +1055,9 @@ kakofonija
 kalen
 kaliber
 kaliti
-kalupom
 kalužast
 kalvarija
-kameno
+kameno olje
 kamnit
 kanibal
 kaos
@@ -1049,11 +1081,12 @@ katarakt
 katastrofa
 katastrofalen
 kavtela
+kazen
 kazenski
 kaziti
 kaznilnica
 kazniv
-kaznivo
+kaznivo dejanje
 kaznjenec
 kaznovanje
 kes
@@ -1061,18 +1094,22 @@ keš
 kesanje
 kifeljc
 kiks
+ki neprestano
+ki oporeka
 kiosk
-kip
+ki ponavlja
 kisel
 kislost
-kit
 kita
+kit ubijalec
+ki vsebuje ponavljanja
 klan
 klanje
 klateški
 klatež
 klati
 klatiti
+klatiti se
 klavec
 klavnica
 klečeplazec
@@ -1096,7 +1133,7 @@ klicati
 klika
 klikarski
 klin
-klinična
+klinična depresija
 kljubovalen
 kljubovalnost
 kljubovanje
@@ -1113,7 +1150,6 @@ kobacanje
 kocka
 kockast
 kodrati
-koga
 koka
 koketa
 koketen
@@ -1124,22 +1160,22 @@ kolaps
 kolebati
 kolebav
 koleno
-kolenski
+kolenski sklep
 koleričen
 kolika
 kolportirati
 komaj
+komaj zadosten
 komedija
 komičnost
 kompenzacija
 kompetirati
 kompleks
-kompleksno
+kompleksno število
 kompliciran
 komplicirati
 koncesija
-končna
-koncu
+končna točka
 konec
 konflikt
 konfrontacija
@@ -1160,10 +1196,12 @@ kontrola
 kontroverzen
 kopati
 kopičiti
+kopičiti se
 kopriva
 koprneti
 korakati
 koren
+koren besede
 koristnost
 koristoljuben
 koristoljubje
@@ -1175,23 +1213,23 @@ korumpirati
 korupten
 kosanje
 kosati
-košatiti
+kosati se
+košatiti se
 košček
 kosmat
 koterija
 kovan
 kovati
-kovino
-kovinski
+kovinski zabojnik
 koža
 kozlanje
 kozlati
 kraja
 krajcar
-krajši
+krajši prepir
 kramljati
 krap
-kraška
+kraška dolina
 krastav
 krasti
 kratkost
@@ -1199,19 +1237,22 @@ kratkotrajen
 kratkoumen
 kratkoviden
 kratkovidnost
+kratkovidnost oz. miopija
 krč
+krčiti se
 kregati
-kresati
+kresati se
 kresilo
 kreten
 kričaški
 kričati
 kričav
+krik
 krikniti
 kriminal
 kriminalen
 kriminalka
-kriminalna
+kriminalna zgodba
 krinka
 kritičnost
 kritik
@@ -1221,22 +1262,20 @@ kriv
 krivda
 krivica
 krivičen
-krivično
+krivično ravnati z
 krivičnost
-krivico
 kriviti
-krivo
+krivo pričanje
 krivoverec
 krivoverski
 krivoverstvo
 križ
 kriza
-križati
+križati se
 krma
-krog
 krogla
 kroničen
-kronična
+kronična bolezen
 krošnjar
 krošnjariti
 krpati
@@ -1245,7 +1284,7 @@ kršitelj
 kršitev
 kršiti
 kruljav
-krušiti
+krušiti se
 krut
 krutost
 krvav
@@ -1278,10 +1317,9 @@ kvantaški
 kvaren
 kvariti
 kvarjenje
-lačen
 laganje
 lagati
-lahka
+lahka zmaga
 lahkoveren
 lahkoživec
 lakaj
@@ -1296,7 +1334,7 @@ latovščina
 lavina
 laž
 lažen
-lažna
+lažna oseba
 lažniv
 lažnivec
 lažnivost
@@ -1311,9 +1349,9 @@ lenost
 lenuh
 lepek
 lepljiv
-lepljiva
+lepljiva snov
 leposlovje
-leposlovno
+leposlovno delo
 lesen
 lesket
 letalen
@@ -1338,7 +1376,7 @@ limonovec
 linija
 lisast
 lisjaštvo
-liti
+liti kovino
 lizika
 lizun
 ljubimkati
@@ -1350,15 +1388,16 @@ ljuljka
 ločen
 ločitev
 ločiti
+ločiti se
 lokati
 lokavost
-lolium
+lolium temulentum
 lomljenje
 lopov
 lopovščina
 lopovstvo
 lovača
-loviti
+loviti z vlačilko
 luftar
 luknja
 lumbago
@@ -1375,7 +1414,7 @@ mahovnat
 majavost
 majcen
 majčken
-majhna
+majhna laž
 malica
 maliciozen
 maličiti
@@ -1398,34 +1437,36 @@ maltretiranje
 maltretirati
 mamon
 maničen
-manična
+manična depresija
 manipulacija
 manipulirati
 manjkajoči
 manjkati
-manjša
+manjša bitka
 manjšanje
 manjšati
+manjšati se
+manjši spopad
 manjvreden
 marioneta
 masa
-maša
 masaker
 masakrirati
+maša zadušnica
 maščevalen
 maščevalnost
 maščevalski
 maščevanje
+maščevati
 maščevje
 maščoba
 maščoben
-maščobno
+maščobno tkivo
 mast
-material
 mazač
 mazanje
 maziljen
-mečevati
+mečevati se
 mečkač
 medvedji
 meglen
@@ -1439,9 +1480,10 @@ meja
 melanholičen
 melanholičnost
 melanholija
-melas
 meljava
 melodija
+meniti se
+meriti se
 mešan
 mešanec
 mesariti
@@ -1462,10 +1504,8 @@ miniti
 minljiv
 minuli
 minus
-miopija
 mirovanje
 misel
-mišica
 misterij
 misteriozen
 mit
@@ -1473,22 +1513,22 @@ mizeren
 mlačen
 mladenič
 mladenka
-mladoletniško
+mladoletniško prestopništvo
 mlatiti
 mletev
 mletje
 mlin
-mnenj
 mnogobarven
 mnogovrsten
 množica
+močan udarec
 močnat
 močvara
 močviren
 močvirje
 močvirnat
-modna
-modni
+modna muha
+modni krik
 modrica
 moker
 moledovanje
@@ -1506,11 +1546,14 @@ morilski
 moriti
 morjenje
 morski
+morski pes
+morski psi
 mortifikacija
 moten
 motenje
 motilen
 motiti
+motiti se
 motnja
 mož
 možak
@@ -1528,15 +1571,16 @@ mršiti
 mrtev
 mrtva
 mrtvak
+mrtva točka
 mrtvec
 mrtvilo
-mrtvilu
 mrvica
 mrzek
 mrzel
 mrzeti
 mrziti
 mrzkost
+mrzlica
 mrzličen
 mrzlo
 mržnja
@@ -1546,10 +1590,10 @@ mučenik
 mučeništvo
 mučenje
 muči
+mučiti se
 mucka
-muditi
+muditi se
 mudljiv
-muha
 muhast
 muhav
 muhavost
@@ -1559,10 +1603,10 @@ mutacija
 nabadanje
 nabirati
 nabit
-naboja
 naborek
 nabornica
 nabrati
+nabrati se
 nabrekel
 nabreklina
 nabreklost
@@ -1577,6 +1621,7 @@ nadležnež
 nadležnost
 nadloga
 nadnaraven
+nadomestilo
 nadprodukcija
 nadštevilen
 nadutež
@@ -1588,18 +1633,20 @@ nadzorovanje
 nadzorstvo
 naenkrat
 naglas
+na glas
 naglašati
 naglašen
 naglasiti
 nagnil
+nagnjen
 nagnusen
 nagnusnost
 nagovor
-nagrobna
+nagrobna pesem
 nagrobnica
 naguban
-nagubati
-nahajati
+nagubati se
+nahajati se
 nahujskati
 naježen
 nakaza
@@ -1607,12 +1654,12 @@ nakazan
 nakladač
 naklepen
 naključnost
-naklučje
 naknaden
 nakodran
 nakopičiti
+nakopičiti se
 nalagati
-naleteti
+naleteti na
 nalezljiv
 nalezljivost
 naliv
@@ -1625,11 +1672,14 @@ namigavanje
 namigovanje
 namišljen
 namočen
-namršiti
-nanašati
+namršiti se
+nanašati se
 napačen
-napačna
-napačno
+napačna predstava
+napačna razlaga
+napačno prikazati
+napačno razlagati
+napačno razumeti
 napadalec
 napadalen
 napadati
@@ -1649,9 +1699,8 @@ naporen
 naporno
 napota
 napuhnjen
-napus
-narava
 naraven
+naravna depresija
 narazen
 narkoman
 narobe
@@ -1674,9 +1723,11 @@ nataknjen
 natolcevati
 natovoriti
 natrpati
+natrpati se
 navaden
 navaditi
 naval
+navdušiti se
 naveličan
 naveličanost
 navidezen
@@ -1689,7 +1740,6 @@ naznanitev
 naznaniti
 nazobčan
 nažreti
-ne
 neaktiven
 neblag
 nebogljen
@@ -1780,11 +1830,10 @@ neizzvan
 nejasen
 nejasnost
 nejevernost
-nejevoljo
 nekateri
 nekaznovanje
 nekompatibilen
-nekompetentna
+nekompetentna oseba
 nekontroliran
 nekoristen
 nekroza
@@ -1794,6 +1843,7 @@ nelegalnost
 nelep
 neljub
 neljubezniv
+ne ljubiti
 neljubljen
 nelogičen
 nelogičnost
@@ -1824,6 +1874,7 @@ nenatančen
 nenatančnost
 nenavadnež
 nenavadnost
+ne na voljo
 nenehno
 nenehoma
 neobčutljivost
@@ -1844,13 +1895,14 @@ neodločen
 neodločenost
 neodločnost
 neodobravanje
+ne odobriti
 neodpusten
 neodpustljiv
 neodrešen
 neogiben
 neokreten
 neokretnost
-neokrnjena
+neokrnjena narava
 neokusnost
 neolikan
 neolikanec
@@ -1908,7 +1960,7 @@ nepredvidljivost
 neprehoden
 nepremičen
 nepremičnine
-nepremično
+nepremično premoženje
 nepremišljen
 nepremišljenost
 nepremostljiv
@@ -1944,6 +1996,7 @@ neprišteven
 neprištevnost
 nepristopen
 neprizanesljivost
+ne priznati
 neraben
 nerad
 neravnotežje
@@ -1976,6 +2029,9 @@ neroden
 nerodnost
 nervozen
 nervoznost
+ne se pozdraviti
+ne se strinjati
+ne se ujemati
 nesimetričnost
 nesimpatičen
 neskladen
@@ -2008,6 +2064,7 @@ nesporazum
 nesposoben
 nesposobnost
 nespoštljiv
+ne spoštovati
 nespravljiv
 nesprejemljiv
 nesprejemljivost
@@ -2044,7 +2101,7 @@ neučinkovitost
 neudoben
 neudomačen
 neudržen
-neudržljiv
+ne ugajati
 neuglajen
 neuglajenost
 neugnan
@@ -2060,7 +2117,7 @@ neumerjen
 neumesten
 neumestno
 neumnež
-neumno
+neumno govoriti
 neumnost
 neupogljiv
 neupogljivost
@@ -2082,6 +2139,7 @@ neuspel
 neuspešen
 neuspešnost
 neustaven
+ne ustrezati
 neustrezen
 neutemeljen
 neutešen
@@ -2094,9 +2152,11 @@ nevarnost
 nevažen
 nevažnost
 neveden
+ne vedeti
 nevednost
 neveljavnost
 neveren
+ne verjeti
 neverjetnost
 nevernež
 nevernik
@@ -2119,20 +2179,24 @@ nevzdržljiv
 nevzgojen
 nezadostnost
 nezadovoljen
+ne zadovoljiti
 nezadovoljiv
 nezadovoljnež
 nezadovoljstvo
 nezadržen
 nezadržljiv
+ne zahtevati
 nezakonit
 nezakonitost
 nezakonski
+nezakonski otrok
 nezanesljivost
 nezanimiv
 nezapažen
 nezapopadljiv
 nezaščitenost
 nezaupanje
+ne zaupati
 nezaupen
 nezaupljiv
 nezaupljivost
@@ -2144,7 +2208,6 @@ nezdrav
 nezdružljiv
 nezdružljivost
 nezdržen
-nezgoda
 nezlomljiv
 nezmeren
 nezmožnost
@@ -2164,19 +2227,17 @@ ničvrednost
 nihanje
 nihati
 niša
-nit
-nizke
+nizke temperature
 nizkoten
 nizkotnost
 noč
 nočevati
-noči
 nočiti
 nonšalantnost
 norčav
 norček
 norčevanje
-norčevati
+norčevati se
 norec
 norišnica
 noro
@@ -2192,8 +2253,8 @@ obdolženec
 obdolžitev
 obdolžiti
 obešati
-obešen
 obesiti
+obesiti se
 obirati
 obiskati
 obiti
@@ -2209,18 +2270,19 @@ oblasten
 oblatiti
 obleganje
 oblegati
-oblike
+oblikovati kovino s kalupom
 oblivanje
-obnašati
+obnašati se
 obnemoglost
 obogateti
 obolel
 obolenje
 obotavljanje
-obotavljati
+obotavljati se
 obrabljen
-obračanje
+obračanje stran
 obramba
+obrat
 obravnavati
 obrekljiv
 obrekljivec
@@ -2262,9 +2324,9 @@ obupen
 obveznost
 obvoz
 obžalovanje
-obžalovanjem
 obžalovati
 obzidati
+očistiti se
 očitati
 očiten
 očrnitev
@@ -2273,6 +2335,7 @@ odbijajoč
 odbijanje
 odbijati
 odbiti
+odbiti se
 odboj
 odbojen
 odcepitev
@@ -2284,7 +2347,6 @@ odebeliti
 oder
 oderuški
 odgoditev
-odgovor
 odgovoren
 odhod
 odiozen
@@ -2297,27 +2359,30 @@ odkloniti
 odklonjen
 odkriti
 odlašanje
+odločiti se
 odlog
-odlomiti
+odlomiti se
 odložiti
-odmakniti
+odmakniti se
 odmik
 odmirati
 odmotati
 odnehati
 odpadek
-odpadni
 odpadnik
+odpadni material
 odpadništvo
 odpasti
-odpočiti
+odpočiti se
 odpor
-odporniško
+odporniško gibanje
 odpornost
-odporom
 odpoved
+odpovedati
 odprtina
+odprt okvir
 odpuščen
+odreči
 odreditev
 odreka
 odrezati
@@ -2338,7 +2403,6 @@ odsvetovati
 odsvojitev
 odsvojiti
 odtegniti
-odtihotapi
 odtis
 odtok
 odtujenost
@@ -2350,7 +2414,7 @@ odvada
 odvečen
 odvečnost
 odvleči
-odvodna
+odvodna cev
 odvodnjavanje
 odvračalen
 odvračanje
@@ -2359,12 +2423,14 @@ odvratnost
 odvrniti
 odvzem
 odvzeti
+odvzeti servis
 ofenziven
 ogaben
 ogabnost
 oglat
 oglušljiv
 ogniti
+ogniti se
 ognjenik
 ognojek
 ogoljufati
@@ -2387,7 +2453,7 @@ okajen
 okamneti
 okamniti
 okisati
-oklepno
+oklepno bojno vozilo
 oklevanje
 oklevetati
 okljuk
@@ -2410,9 +2476,7 @@ okužen
 okužitev
 okužiti
 okvara
-okvir
 oledeneti
-olje
 oljnat
 omadeževati
 omahljiv
@@ -2425,14 +2489,14 @@ omama
 omamiti
 omamljenost
 omedlevica
-omehčati
+omehčati se
 omejenost
 omejevalen
 omejevanje
 omejitev
 omlačen
 omleden
-omotavati
+omotavati se
 omotičen
 omračitev
 one
@@ -2449,7 +2513,7 @@ onesnaževanje
 onesnažiti
 onesposobiti
 onesposobljen
-onesvestiti
+onesvestiti se
 opeči
 opehariti
 opeklina
@@ -2469,14 +2533,13 @@ oponent
 oponirati
 oporeči
 oporečnik
-oporeka
 oporekati
 oportunizem
-opoteči
-opotekajoč
-opotekati
+opoteči se
+opotekajoč se
+opotekati se
 opozicija
-opozorilni
+opozorilni znak
 opozorilo
 opravičilo
 opravilo
@@ -2484,7 +2547,6 @@ opravljanje
 opravljiv
 opravljivec
 opredeliti
-opreme
 oprezno
 opreznost
 oprhel
@@ -2493,17 +2555,15 @@ opustitev
 opustošen
 opustošenje
 opustošiti
-orca
-Orcinus
-organizacija
+Orcinus orca
 orjak
 orka
-orodje
+orodje takšne oblike
 oropati
 ošaben
 ošabnost
 osamel
-osamela
+osamela vrstica
 osamitev
 osamiti
 osamljen
@@ -2539,7 +2599,7 @@ osumljenost
 osupljiv
 osuševalen
 osuševanje
-osušiti
+osušiti se
 osvajalec
 osvajanje
 otečenost
@@ -2576,7 +2636,6 @@ oviti
 ovreči
 ovrgljiv
 ovržba
-oz.
 ozaljšan
 ožeti
 ožganina
@@ -2587,13 +2646,11 @@ pačiti
 packa
 padavine
 padec
-palica
 pamž
 paničen
 panika
-pank
+pank rock
 pankrt
-paprika
 paradoksen
 paraliziran
 paralizirati
@@ -2607,17 +2664,19 @@ partizan
 partizanstvo
 paševati
 pasiv
-pasivni
+pasivni glagolski način
 pasivnost
 pasma
 past
-pastirska
+pastirska palica
 pat
 patološki
+pat položaj
+pat pozicija
 pazljivost
 pečen
 peči
-pedal
+pedal za plin
 pedantičen
 pedantski
 peder
@@ -2626,10 +2685,11 @@ pegast
 pehariti
 pekel
 peklenski
+peljati se z vlakom
 penast
 penez
 penis
-penki
+penki penki
 pepček
 pereč
 perfiden
@@ -2641,14 +2701,13 @@ persiflirati
 perverzen
 perverzija
 perverznost
-pes
-peš
 pešačenje
 pešačiti
 pešanje
-peščena
+peščena ovira
 pesimističen
 pesimizem
+peš iti
 pest
 pester
 pestovati
@@ -2670,7 +2729,7 @@ pikčast
 pikiran
 pikolovski
 pikrost
-pinke
+pinke ponke
 pisan
 piškav
 pitati
@@ -2682,15 +2741,16 @@ plahtati
 plakati
 plašen
 plašiti
+plašiti se
 plašljiv
 plašljivec
 plašljivost
 plašnost
-plat
 plavati
 plaz
 plazenje
 plaziti
+plaziti se
 plebejec
 plebejski
 plehek
@@ -2704,12 +2764,11 @@ plesniv
 pleva
 pleve
 plevel
-plin
 plitvost
 pljuskati
 ploha
 pobalinstvo
-pobeg
+pobeg iz zapora
 pobegniti
 pobesnel
 pobesnelost
@@ -2719,12 +2778,12 @@ pobit
 pobiti
 pobitost
 pobočje
-pobrisati
+pobrisati jo
 pobudnik
 počasen
 počasne
 počasnost
-poceniti
+poceniti se
 pocestnica
 počiti
 počivati
@@ -2757,8 +2816,9 @@ podrepnik
 podtalen
 podtikanje
 podvreči
+podvreči se
 pofuliti
-pogajati
+pogajati se
 pogan
 poganski
 pogasiti
@@ -2769,11 +2829,12 @@ pogosten
 pograd
 pograjati
 pogrebec
-pogrebna
+pogrebna pesem
 pogrebnica
 pogrešan
 pogrešen
 pogrezniti
+pogrezniti se
 pogreznjen
 poguba
 poguben
@@ -2782,17 +2843,18 @@ pohabljenec
 pohajkovati
 pohlep
 pohod
-pohodna
+pohodna tura
 pohota
 pohoten
 pohotnež
 pohotnik
 pohujšati
+pohujšati se
 pohujšljiv
-poigravati
+poigravati se
 pojanje
 pojavitev
-pojaviti
+pojaviti se
 pojemati
 pok
 pokanje
@@ -2812,6 +2874,7 @@ pokriti
 pokrivati
 pokroviteljski
 pokvariti
+pokvariti se
 pokvarjenost
 pokvarljiv
 pokvečen
@@ -2820,7 +2883,6 @@ polarizacija
 polemizirati
 poleniti
 poljuben
-poljubiti
 polkrilec
 polmrak
 polnokrven
@@ -2829,17 +2891,18 @@ polom
 polomija
 polomiti
 polovičar
+položaj
 polten
 polzek
 pomanjkanje
 pomanjkljiv
 pomanjkljivost
 pomankljivost
-pomečkati
+pomečkati se
 pomešati
-pomirjevalno
+pomirjevalno sredstvo
 pomirjevalo
-pomišljati
+pomišljati se
 pomota
 pomoten
 pomotoma
@@ -2848,18 +2911,16 @@ ponaredba
 ponarediti
 ponarejen
 ponarejevalec
-ponavlja
-ponavljanja
 ponesrečen
-ponesrečiti
+ponesrečiti se
 ponev
 poneveriti
 poniglav
 ponižan
 ponižanje
+ponižati se
 ponižen
 poniževalen
-ponke
 ponor
 ponošen
 pooblačiti
@@ -2870,13 +2931,14 @@ popačiti
 popackan
 popariti
 poparjen
-popihati
+popihati jo
 poplah
 poplava
 poplaviti
 poplavljen
 popokati
-popolno
+popolno uničenje
+popoln poraz
 popotnik
 popotovati
 popravilo
@@ -2894,12 +2956,10 @@ portret
 porušitev
 porušiti
 posamezen
-posameznika
 pošast
 posebnež
 posebno
 poševen
-poševna
 posiljevalec
 posilstvo
 poškoda
@@ -2912,12 +2972,11 @@ poskus
 poskusen
 poslabšanje
 poslabšati
+poslabšati se
 posledica
-poslednje
-poslovna
+poslovna organizacija
 posmeh
 posmehljiv
-posmehovanja
 posmehovanje
 posmehovati
 pospraviti
@@ -2925,32 +2984,35 @@ posran
 posredovanje
 posredovati
 postanek
+postati kamen
 postavač
 postavljač
 postavljaški
 postopač
 postopati
 postrežljiv
-postrojiti
+postrojiti se
 posušen
-posušiti
+posušiti se
 posvaritev
-posvečati
+posvečati se
 pošvedran
 posveten
 poteči
 potegavščina
 potegniti
-potegovati
+potegovati se
 potemniti
 potentat
 potepati
+potepati se
 potepin
 potepuh
 potepuški
 potikati
+potikati se
 potisniti
-potiti
+potiti se
 potlačen
 potlačenost
 potlačitev
@@ -2960,14 +3022,14 @@ potop
 potopitev
 potopiti
 potopljen
-potovati
+potovati z vlakom
 potratnost
 potreti
 potrkati
 potrošiti
 potrt
 potrtost
-potuhniti
+potuhniti se
 potuhnjenec
 poudarek
 poudariti
@@ -2985,8 +3047,7 @@ površno
 pozabljiv
 pozabljivost
 pozeba
-poželeti
-pozicija
+poželeti (si)
 požirati
 požrešnež
 požveplati
@@ -2997,6 +3058,7 @@ prašen
 prašič
 prasica
 praskati
+praskati se
 pravdarski
 pravdati
 praznina
@@ -3007,18 +3069,21 @@ praznovernost
 prebitek
 prebojen
 prebrisanost
+precej majhen
 precep
 prečrtati
 predaja
 predati
+predati se
 predirljiv
 predmet
+predmet razprave
 prednosten
 predolg
 predpisati
+predrzen odgovor
 predrznost
 predsodek
-predstava
 preferencialen
 preganjanje
 preganjati
@@ -3031,7 +3096,7 @@ pregon
 pregrada
 pregraja
 pregreha
-pregrešiti
+pregrešiti se
 pregrniti
 prehoden
 preigrati
@@ -3058,11 +3123,14 @@ prekucniti
 prelamljanje
 prelom
 prelomiti
+prelomiti se
 preluknjati
 premaganec
 premakniti
+premakniti se
 premena
 premer
+premer naboja
 premešati
 premetenost
 premikati
@@ -3072,23 +3140,22 @@ preminutje
 premisliti
 premlačen
 premlatiti
-premogov
+premogov grušč
 premor
 premotiti
-premoženje
 prenagel
 prenagljen
 prenagljenost
 prenajesti
 prenapolnjen
 prenasičenost
-prenasititi
+prenasititi se
 prenehati
 preobilje
 preobjedati
 preobjesten
 preobjesti
-preobleči
+preobleči se
 preobložen
 preobrat
 preobremenjen
@@ -3104,6 +3171,7 @@ preperevanje
 prepešačiti
 prepir
 prepirati
+prepirati se
 prepirljiv
 prepirljivka
 prepirljivost
@@ -3132,7 +3200,7 @@ preračunljiv
 preračunljivost
 prerekanje
 prerezati
-prerivati
+prerivati se
 presaditev
 presedati
 presejati
@@ -3145,9 +3213,9 @@ presnet
 prestaviti
 prestopek
 prestopnik
-prestopništvo
 prestrašen
 prestrašiti
+prestrašiti se
 presunljiv
 prešuštnica
 prešuštnik
@@ -3161,22 +3229,24 @@ pretirati
 pretiravanje
 pretiravati
 pretkanost
-pretolči
+pretolči se
 pretres
 pretresati
 pretrgati
 pretvara
 pretvarjanje
 pretvarjati
+pretvarjati se
 pretveza
 preučiti
 preusmeritev
 prevara
 prevarant
 preveč
+preveč jesti
 prevejanost
 prevelik
-prevelika
+prevelika proizvodnja
 preverjen
 prevesiti
 previdno
@@ -3184,6 +3254,7 @@ previdnost
 prevladujoč
 prevraten
 prevrniti
+prevrniti se
 prevzeten
 prevzetnost
 prežati
@@ -3192,24 +3263,23 @@ preziran
 prezirati
 preziren
 prezirljiv
-prezračevalna
+prezračevalna odprtina
 prezreti
 prhneti
 približen
-približevati
-približujoč
-pričanje
+približevati se
+približujoč se
 pričkanje
 pričkati
+pričkati se
 pridanič
 pridigati
 pridušiti
-prihuliti
+prihuliti se
 prihuljen
 prihuljenec
-prijateljica
+prijateljica noči
 prijetje
-prikazati
 prikrajšan
 prikrajšanost
 prikrajšati
@@ -3218,6 +3288,7 @@ prikriti
 prikrivanje
 prikrivati
 prilizovalec
+prilizovati se
 primanjkljaj
 primanjkovati
 primerjava
@@ -3227,7 +3298,7 @@ pripomba
 pripor
 pripornik
 pripovedništvo
-pripovedovalec
+pripovedovalec zgodb
 prisaden
 prisila
 prisilen
@@ -3244,15 +3315,17 @@ pritiskati
 pritlikav
 pritlikavec
 pritoževanje
-pritoževati
+pritoževati se
 privabljanje
 privaditi
 privid
 prizadejati
 prizadet
 prizadetost
+prizadevati
 prižast
 prižgati
+prižgati se
 prižiganje
 priznati
 problem
@@ -3269,7 +3342,6 @@ prohibitiven
 proizvajanje
 proizvajati
 proizvesti
-proizvodnja
 pronicanje
 propad
 propadanje
@@ -3287,7 +3359,6 @@ prostitutka
 protekcija
 protest
 protestirati
-proti
 protinaraven
 protipostaven
 protipraven
@@ -3295,7 +3366,10 @@ protipravnost
 protisloven
 protislovje
 protislovnost
+proti svoji volji
 protiustaven
+proti volji
+proti volji posameznika
 protizakonit
 protizakonitost
 provizoren
@@ -3307,9 +3381,8 @@ provokatorski
 proza
 prozaičen
 prsi
-prskati
+prskati se
 prst
-psi
 psica
 psikanje
 psovati
@@ -3325,6 +3398,7 @@ pulverizacija
 pulzirati
 punca
 punk
+punk rock
 punkt
 punt
 puntarija
@@ -3336,33 +3410,34 @@ pustinja
 pustošenje
 pustošiti
 rabota
-računalniška
-računalniški
+računalniška napaka
+računalniški virus
 radikal
 radikalec
 radikalen
 radoveden
 raglja
 ragljati
+rajši majhen
 rak
-ran
 rana
 raniti
 ranjen
 ranljiv
-rapsodsko
 rariteta
 rasist
 rasizem
 raskav
-rasna
+rasna diskriminacija
 rastlinjak
 ravnati
 razbesniti
 razbit
 razbiti
 razbitina
+razbiti se
 razbobnati
+razburiti se
 razburjati
 razburjenje
 razcep
@@ -3372,21 +3447,24 @@ razdediniti
 razdejalen
 razdejanje
 razdeliti
+razdeliti se
 razdiralen
 razdor
 razdražen
 razdraženost
 razdražiti
+razdražiti se
 razdražljivost
 razdvojen
 razdvojenost
 razdvojiti
-razeveteti
+razeveteti se
 razglašen
 razgradnja
 razgrajanje
 razhajanje
-raziti
+razhajanje mnenj
+raziti se
 razjariti
 razjarjen
 razjarjenost
@@ -3403,20 +3481,20 @@ razkrinkati
 razkriti
 razkroj
 razkropiti
+razkropiti se
 razkuštrati
-razlaga
-razlagati
 razlastitev
 razlastiti
 razlikovati
 razložiti
 razmajan
-razmehčati
+razmehčati se
 razmejitev
 razmetati
 razmisliti
 razmočen
 razmotati
+razmotati se
 razmršiti
 raznašalec
 raznesti
@@ -3433,17 +3511,18 @@ razpadati
 razpadel
 razpasti
 razplesti
-razpočiti
+razplesti se
+razpočiti se
 razpoka
 razpokan
 razporek
 razposajenka
-razprave
 razpravljati
-razpršiti
+razpršiti se
 razprtija
-razrahljati
+razrahljati se
 razrešen
+razrešiti se
 razrezati
 razrušen
 razseliti
@@ -3452,18 +3531,19 @@ razsipavanje
 razsipavati
 razsipen
 razsipnost
-razširiti
+razširiti se
 razširjen
 razsrditi
 razsrjen
 razsulo
 raztogotiti
-raztreščiti
+raztreščiti se
 raztresen
 raztresti
 raztrgan
 raztrganje
 raztrgati
+raztrgati se
 raztrobiti
 raztrositi
 razuzdanec
@@ -3482,7 +3562,7 @@ razvratnost
 razžaljen
 razžaljiv
 razžaloščen
-rdeča
+rdeča nit
 reagirati
 reakcionar
 reakcionaren
@@ -3495,7 +3575,7 @@ rekviem
 rekvijem
 represija
 represiven
-republika
+republika čile
 resast
 rešetka
 resignacija
@@ -3524,7 +3604,6 @@ rjoveti
 rob
 robat
 robot
-rock
 rodomor
 roganje
 rogati
@@ -3544,14 +3623,13 @@ rovka
 rožljanje
 rubež
 rubežen
-rubia
+rubia tinctorum
 ruinirati
 rušilec
 rušilen
-rušiti
-ruta
+rušiti se
+ruta graveolens
 rutinski
-s
 šablonski
 sabotaža
 sabotirati
@@ -3559,7 +3637,7 @@ sabotirati
 saje
 sakrabolski
 sakramenski
-šaliti
+šaliti se
 šalobarda
 samodopadljiv
 samodržec
@@ -3602,7 +3680,6 @@ satiričen
 sebičen
 sebičnost
 seč
-secalinus
 sedalo
 sedanji
 sedativ
@@ -3610,20 +3687,23 @@ sedativ
 sekanten
 sekira
 sekirati
+se kriviti
 seks
 sekularen
 sekundaren
+se ločiti
 senčen
 senčilo
 senčnat
 senilen
 sentimentalen
+se odtihotapi
 šepanje
 šepati
 šepav
+se premikati
 servilen
 servilnost
-servis
 servitut
 sesanje
 sesati
@@ -3633,7 +3713,7 @@ sestavljati
 sestavljen
 sestradan
 sesukati
-sesuti
+sesuti se
 sesutje
 sežgati
 sežig
@@ -3643,10 +3723,8 @@ shajališče
 shajati
 shizma
 shujšan
-(si)
 šibkost
 sifon
-sih
 sik
 šikana
 šikanirati
@@ -3663,6 +3741,7 @@ sinkopa
 sinus
 sirast
 širiti
+širokoustiti
 širokoustnež
 siromak
 siromašen
@@ -3690,10 +3769,9 @@ skesan
 skesanost
 skisan
 skledoliznik
-sklep
 šklepetanje
 sključen
-sključiti
+sključiti se
 skočiti
 škoda
 škoditi
@@ -3710,12 +3788,12 @@ skorajšnji
 skorajšnjost
 skovan
 skovati
-skrajna
+skrajna točka
 škrat
 skrb
 škrbast
-skrčiti
-skremžiti
+skrčiti se
+skremžiti se
 skrhan
 škripanje
 škripati
@@ -3723,8 +3801,9 @@ skrhan
 škripec
 skrit
 skriti
+skriti se
 skrivališče
-skrivati
+skrivati se
 skriven
 skriviti
 skrivnost
@@ -3739,6 +3818,7 @@ skurilen
 skušnjava
 skuštrati
 slabeti
+slab glas
 slabitev
 slabiti
 slabo
@@ -3748,18 +3828,20 @@ slabotnost
 slaboumen
 slaboumnež
 slaboumnost
+slabo znamenje
 slabšati
+slabšati se
 sladkoben
-slamnati
+slamnati mož
 slana
 slap
 slep
-slepa
 slepar
 sleparija
 slepariti
 sleparjenje
 sleparski
+slepa ulica
 slepilen
 slepilo
 slepiti
@@ -3767,7 +3849,7 @@ slepiti
 šlevast
 slinast
 slogan
-slovnični
+slovnični čas
 slučajno
 sluz
 sluzast
@@ -3796,10 +3878,9 @@ snob
 snobističen
 snovanje
 šoba
-sodbe
 soditi
-sodni
-?Sodni
+sodni dan
+?Sodni dan
 šok
 sokolji
 sokrivec
@@ -3810,6 +3891,7 @@ sopara
 soparen
 sopihanje
 sopihati
+šopiriti se
 sopsti
 sostorilec
 soteska
@@ -3821,7 +3903,7 @@ sovražnost
 spaček
 spačen
 spačenec
-spačiti
+spačiti se
 spadati
 spaka
 specialen
@@ -3836,14 +3918,15 @@ spodbiti
 spodkopavanje
 spodleteti
 spodnesti
-spodnja
+spodnja majica
 spodrsljaj
 spogledljiv
 spogledljivka
 spogledovanje
 spogledovati
+spogledovati se
 spokorjen
-spolstiti
+spolstiti se
 spona
 spontan
 spopad
@@ -3851,23 +3934,26 @@ spor
 sporadičen
 sporen
 spotakljiv
-spotakniti
+spotakniti se
 spotikljaj
 spotikljiv
 spoved
 spoznati
 špranja
+spraviti v nered
 spregledati
+spremeniti v kamen
 spremenljiv
 sprhneti
 sprijen
 sprijenost
 sprint
 šprint
-sproprijeti
-spuščati
+sproprijeti se
+sprožiti se
+spuščati se
 spust
-spustiti
+spustiti se
 srab
 sraka
 sramežljivost
@@ -3875,7 +3961,7 @@ sramota
 sramoten
 sramotilec
 sramotilen
-sramotilni
+sramotilni steber
 sramotitev
 sramotiti
 sranje
@@ -3884,9 +3970,9 @@ srbenje
 srd
 srdit
 srečati
-sredstvo
+srečno naklučje
 sren
-srep
+srep pogled
 srež
 stagnacija
 stalno
@@ -3894,10 +3980,9 @@ starčevski
 starikav
 starina
 starokopiten
-startna
-stavbni
+startna črta
+stavbni kompleks
 stavka
-steber
 stečaj
 steklenjak
 steklina
@@ -3908,7 +3993,7 @@ stigma
 stiska
 stiskač
 stiskaški
-stiski
+stisniti se
 stokanje
 stokati
 štola
@@ -3916,6 +4001,7 @@ stolica
 stopiti
 štor
 štorast
+storiti krivico
 štorkljast
 stradanje
 stradež
@@ -3928,11 +4014,11 @@ strahovanje
 strahovit
 strahovlada
 štrajk
-stranka
 strankarski
-stranski
+stranski učinek
 strašanski
 strašiti
+strašiti se
 strašljiv
 strašljivec
 strašno
@@ -3949,19 +4035,20 @@ strganje
 strgati
 strike
 strinjati
+strinjati se
 strjevanje
 strm
 strmeti
 strmina
-strmo
+strmo pobočje
 strog
 strogost
 strup
 strupen
 strupenjača
 stud
-studiti
-štuliti
+studiti se
+štuliti se
 suh
 suhec
 sukanje
@@ -3976,12 +4063,13 @@ sumničavost
 sumničenje
 šund
 sunek
+sunek vetra
 suniti
-surovi
-surovo
+surovi svinec
 surovost
+surovo železo
 suša
-sušena
+sušena huda paprika
 sušičen
 šušmar
 šušmariti
@@ -3990,7 +4078,7 @@ suženjstvo
 sužnost
 svarilo
 svariti
-svetilno
+svetilno olje
 svetohlinec
 svetoskrunstvo
 svinja
@@ -4000,19 +4088,17 @@ svojeglavost
 svojevoljen
 svojevoljno
 svojevoljnost
-svoji
 tajen
 tajenje
 tajinstven
 tajitev
 tajiti
 taksi
-takšne
 talec
 talion
 tanek
 tank
-tarča
+tarča posmehovanja
 tarnanje
 tarnati
 tatinski
@@ -4034,11 +4120,10 @@ teleban
 tema
 temačnost
 temen
-temna
+temen odtenek
+temna slutnja
 temnogled
 temnost
-temperature
-temulentum
 tendenciozen
 tenor
 tepec
@@ -4051,37 +4136,32 @@ terorizirati
 tesen
 teslo
 tesnoba
-teta
+teta Meta
 težak
-težaško
+težaško delo
 težava
-težavah
 težavnost
 težek
 težko
 tič
 tihotapljenje
-tikati
-tinctorum
+tikati se
 tip
+tip človeka
 tir
 tirada
 tiran
 tiranija
 tiranizirati
 tiranski
-tkivo
 tlačanstvo
 tlačenje
 tlaka
 tleskniti
 tleti
-tobaka
-točka
 tog
 togost
 togota
-tok
 toksičen
 tolst
 tolstost
@@ -4092,6 +4172,7 @@ totalitarizem
 tovor
 tožba
 tožena
+tožena stranka
 toženec
 toženi
 tožiti
@@ -4113,16 +4194,17 @@ trčenje
 trčiti
 trdoglav
 trdovratnost
-trebušna
 trenuten
 trepet
 trepetanje
 trepljaj
 tresenje
 tresljaj
-tresoč
+tresoč se
+tresti se
 trgati
 trhel
+trik
 trinica
 trivialen
 trk
@@ -4140,7 +4222,7 @@ trpek
 trpinčenje
 trpkost
 trpljenje
-trpni
+trpni glagolski način
 trpnik
 trpnost
 truden
@@ -4155,7 +4237,6 @@ tuj
 tujec
 tujski
 tuliti
-tura
 turoben
 turobnost
 tveganje
@@ -4173,14 +4254,14 @@ uboštvo
 učiteljica
 udar
 udebeliti
-udušiti
+udušiti se
 uganka
 ugonobiti
 ugovarjanje
 ugovarjati
 ugovor
 ugrabiti
-ugrezati
+ugrezati se
 uhajanje
 uiti
 ujedljivost
@@ -4191,25 +4272,25 @@ ujeziti
 ukazati
 ukazovalen
 ukiniti
-ukleščiti
-ukopati
+ukleščiti se
+ukopati se
 ukoreninjen
 ukoriti
 ukrasti
 ukrotiti
-ukvarjati
-uleči
-ulica
+ukvarjati se
+uleči se
 ulov
 ultimat
 umaknitev
 umakniti
+umakniti se
 umazan
 umazanec
 umazanost
 umazati
 umik
-umikati
+umikati se
 umiranje
 umirati
 umirjen
@@ -4231,8 +4312,8 @@ upadati
 upadel
 upehan
 upehanost
-upirajoč
-upirati
+upirajoč se
+upirati se
 uplahniti
 uplašiti
 upognjen
@@ -4240,27 +4321,29 @@ upor
 uporen
 upornik
 uporništvo
-upornost
 upraševnaje
 upropastiti
 urez
 urgenten
 ušiv
-uskočiti
+uskočiti se
+usmerjen
 usmrajen
-usmrčen
 usmrčevanje
 usmrtitev
 usmrtiti
 usoden
-usodna
+usodna nesreča
+usodna nezgoda
 usojen
 uspešnica
+ustaviti se
 ustavljati
 ustrahovalec
 ustrahovanje
 ustrahovati
 ustrašiti
+ustrašiti se
 usužnjiti
 utaja
 utajitev
@@ -4279,13 +4362,14 @@ užaliti
 užaloščen
 uzurpacija
 uzurpator
+v
 vaba
 vagabund
 vagabundski
 vajen
 vakuum
 valiti
-valjati
+valjati se
 varanje
 varati
 variirati
@@ -4301,7 +4385,7 @@ veleizdaja
 veleizdajalski
 veleti
 velikan
-veliki
+veliki ducat
 veljati
 veneti
 venomeren
@@ -4309,7 +4393,6 @@ ventil
 verolomen
 verolomnost
 verolomstvo
-vetra
 vetrnjaški
 vibracija
 vibriranje
@@ -4320,56 +4403,56 @@ viharen
 vihrav
 vijuga
 vijugast
-vijugati
+vijugati se
 vinjen
 virus
 viseti
 viskozen
 vitalnost
 viti
-vkopavati
-vlačilko
-vlačiti
+viti se
+vkopavati se
+vlačiti se
 vlačuga
 vlačugar
-vlačugati
-vladna
-vlakom
+vlačugati se
+vladna zaloga
 vlažen
+vleči se
 vliti
 vlivati
 vložiti
 vmešati
+vmešati se
 vmešavati
+v mrtvilu
 vnemaren
 vneti
+vneti se
 voden
 voh
 vohanje
-vojaka
-vojaška
+vojaška zaloga
 vojskovanje
-vojskujoč
-volji
+vojskujoč se
 vomitiv
 vonj
 vonjanje
 vonjava
 voz
-vozilo
 vpiti
 vpliv
 vpojen
 vprašanje
 vprašljivost
-vračati
+vračati se
 vrag
 vragec
 vragolija
-vragu
 vratolomen
 vraža
 vražji
+vreči
 vrel
 vrelišče
 vrenje
@@ -4379,34 +4462,40 @@ vreščav
 vreščeč
 vrez
 vriniti
+vrniti se
 vročica
 vročičen
 vročičnost
-vrstica
+vrstica sirota
 vrtača
 vrtanje
 vrtati
-vrtinčiti
+vrtinčiti se
 vrtinec
 vrtoglav
 vrvež
 vrvrati
 vrzel
+vsakdanji
 vsakodneven
 vsakovrsten
-vsebuje
 vsesati
+v sih
 vsiljevati
 vsiljiv
 vsrkati
 vstaja
+v stiski
 vtepati
-vtikati
+v težavah
+vtikati se
 vtikljiv
 vtis
 vtisniti
 vulgaren
 vulkan
+v zastoju
+vzdržati se
 vzdržljivost
 vzdušje
 vzenimrjenost
@@ -4417,6 +4506,7 @@ vzkipljiv
 vzkipljivost
 vzklikniti
 vznejevoljiti
+vznemiriti se
 vznemirjanje
 vznemirjati
 vznemirljiv
@@ -4425,7 +4515,6 @@ zabičati
 zabičevati
 zabit
 zabloda
-zabojnik
 zaboleti
 zabraniti
 zabrisati
@@ -4433,14 +4522,14 @@ zabuhel
 zabušant
 začasen
 zadah
-zadajanje
+zadajanje ran
 zadaviti
 zadelati
 zadeva
 zadevati
 zadirčen
 zadirčnost
-zadnja
+zadnja plat
 zadnji
 zadnjica
 zadolženost
@@ -4448,16 +4537,19 @@ zadolžitev
 zadrega
 zadržan
 zadržati
+zadržati se
 zadržek
-zadrževati
+zadrževati se
 zadušiti
+zadušiti se
 zadušljiv
+zadušljiv dim
 zadušnica
 zafračkati
 zagabiti
 zagata
 zagnusiti
-zagnusti
+zagnusti se
 zagodrnjati
 zagoneten
 zagonetka
@@ -4492,7 +4584,7 @@ zakrnel
 žal
 zaledeneti
 zaledje
-zaleteti
+zaleteti se
 zalezovati
 žalitev
 žaliti
@@ -4506,19 +4598,21 @@ zaloga
 žalosten
 žalostinka
 žalostiti
+žalostiti se
 žalovalec
 žalovati
 založiti
 zaman
 zamašitev
 zamašiti
+zamašiti se
 zamazan
 zamazati
 zamegliti
 zamejski
 zamenjati
 zamera
-zameriti
+zameriti se
 zamešati
 zamisliti
 zamoriti
@@ -4535,7 +4629,7 @@ zamuditi
 zamudnik
 zamujen
 zanemariti
-zanemarjanje
+zanemarjanje dolžnosti
 zanemarjen
 zanemarjenka
 zanemarjenost
@@ -4574,7 +4668,6 @@ zapletati
 zapletenost
 zaploten
 zapor
-zapora
 zapornica
 zapornik
 zaposlenost
@@ -4590,8 +4683,10 @@ zapravljivost
 zapreka
 zaprepadenost
 zapreti
+zapreti v ječo
 zaprt
 zaprtje
+zaprt krog
 zapuščen
 zarastek
 zardeti
@@ -4599,9 +4694,11 @@ zardeti
 zareza
 zarobljen
 zaročiti
+zaročiti se
 zarota
-zarotiti
+zarotiti se
 zarotnik
+zaščititi se
 zaseda
 zasega
 zasilen
@@ -4624,7 +4721,6 @@ zasramovati
 zastarel
 zastavek
 zastoj
-zastoju
 zastrašen
 zastraševanje
 zastraševati
@@ -4675,7 +4771,7 @@ zavržen
 zavrženec
 zažig
 zazijati
-zbadati,
+zbadati, gristi koga
 zbadljiv
 zbadljivost
 zbega
@@ -4692,7 +4788,7 @@ zdelati
 zdraha
 zdražbar
 zdrzljaj
-zdrzniti
+zdrzniti se
 zdvojiti
 zehanje
 zehati
@@ -4700,24 +4796,24 @@ zehati
 zelen
 železen
 železnica
-železo
 zelot
 zelotizem
 zelotski
-ženirati
+ženirati se
 ženskar
 žep
 zešnjava
 zev
 zgagar
 zgledovati
-zgodb
+zgodba
+z goljufivim
 zgorevanje
 zgrabiti
 zgraditi
 zgražanje
 zgražati
-zgrbančiti
+zgrbančiti se
 zgrbljen
 zgrešen
 zgrešiti
@@ -4732,15 +4828,15 @@ zimski
 živčnost
 živica
 živinski
-življenjska
-živo
+življenjska moč
+živo bitje
 životen
 životnost
 zjeziti
 zjokati
-zla
 žlabudranje
 žlabudrati
+zla slutnja
 zlasti
 zlateničen
 zlikovec
@@ -4760,6 +4856,7 @@ zloglasnost
 zlom
 zlomek
 zlomiti
+zlomiti se
 zlomljen
 zlonameren
 zlonamernost
@@ -4774,10 +4871,10 @@ zmakniti
 zmaličen
 zmaličiti
 zmanjšati
+zmanjšati se
 zmečkati
 zmeden
 zmedenost
-zmerjanjem
 zmerjati
 zmerljivka
 zmešati
@@ -4785,9 +4882,9 @@ zmešnjava
 zmota
 zmoten
 zmotiti
-zmračiti
+zmračiti se
 zmrdljiv
-zmrdovati
+zmrdovati se
 zmršiti
 zmrzal
 zmrzniti
@@ -4795,9 +4892,13 @@ zmrznjenje
 zmučen
 zmuzne
 žnable
-znebiti
+znebiti se
+z nejevoljo
 znižati
-zniževati
+znižati se
+zniževati se
+z obžalovanjem
+z odporom
 žolč
 žolčen
 žolčnost
@@ -4813,7 +4914,7 @@ zrnast
 zrušenje
 zubelj
 žulj
-zunanja
+zunanja poševna trebušna mišica
 zunanji
 žur
 žuželka
@@ -4827,8 +4928,9 @@ zverinski
 zvijača
 zvijačnost
 zvijati
+zvijati se
 zviška
-zvitek
+zvitek tobaka
 zviti
 zvitorepiti
 zvitost
@@ -4837,3 +4939,4 @@ zvodnik
 zvok
 zvonenje
 zvoniti
+z zmerjanjem

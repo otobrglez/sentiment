@@ -12,10 +12,11 @@ begati
 bel
 besen
 biti
+biti čemern
 blag
 blazen
 blebetati
-bleščati
+bleščati se
 blesteč
 bobnenje
 bodenje
@@ -35,19 +36,16 @@ bučen
 bujen
 bula
 čarovnija
-čarovniški
+čarovniški trik
 cartati
-čas
 čaščenje
 častiti
 čeden
 celoten
-čemern
 cenen
 cenenost
 čezmeren
 čist
-čisto
 čokat
 crkljati
 čuden
@@ -63,10 +61,8 @@ delati
 delaven
 delež
 delikaten
-delo
 delovati
 divji
-do
 dobičkarski
 dobiti
 dobrikati
@@ -92,14 +88,13 @@ drget
 drgetati
 drhteti
 drhtljaj
-držati
+držati se
 drzen
 drznost
 duhoven
 dvigniti
 edinstven
 eleganten
-enak
 energičen
 enostaven
 epikurejski
@@ -117,7 +112,6 @@ ganljiv
 genij
 gibati
 gladek
-glas
 gledati
 globa
 globok
@@ -149,7 +143,6 @@ imeti
 imovit
 imperativen
 impozanten
-in
 intenziven
 intransigenten
 irealen
@@ -163,10 +156,8 @@ izboklina
 izbrati
 izbrbljati
 izbruh
-izčrpan
 izdajalski
 izdelati
-izhod
 izigrati
 izjaviti
 izkoriščati
@@ -183,17 +174,13 @@ izredno
 izsiliti
 izvrsten
 izvzeti
-jama
 jasen
 javen
 jebati
 jedrnat
 jeziti
-kamen
 kavsati
-kazen
 kaznovati
-ki
 kič
 kičast
 kičavost
@@ -201,6 +188,7 @@ kitast
 kočljiv
 komičen
 končati
+končati se
 koncizen
 končno
 kontrolirati
@@ -208,12 +196,10 @@ koristen
 krasen
 kratek
 kratkobeseden
-krčiti
 krepek
-kretati
+kretati se
 krhek
 kričeč
-krik
 kriti
 kritičen
 krotiti
@@ -232,6 +218,7 @@ lizati
 ljubezniv
 ljubica
 ljubiti
+ljubiti se
 ljubosumen
 ljudomil
 lokav
@@ -239,19 +226,15 @@ lopovski
 magnetizirati
 majav
 majhen
-majica
 malenkosten
 mali
 malopriden
 mamiti
 manija
-manjši
-maščevati
 masten
 mečkati
 medel
 meniti
-meriti
 mešanica
 mesnat
 mikati
@@ -265,26 +248,20 @@ mišičast
 mišičen
 mlad
 mlahav
-moč
 močan
 močen
 moder
-modi
 molčeč
 morati
 motivirati
-mrščiti
-mrzlica
+mrščiti se
 mučiti
 muja
 muka
-na
 nabaviti
 nabrit
 načičkanost
-način
 nadaljevati
-nadomestilo
 nadut
 nadvlada
 nadvse
@@ -293,17 +270,17 @@ nagajati
 nagajiv
 nagel
 nagibati
+nagibati se
 naglica
 naglo
 nagloma
 nagniti
-nagnjen
+nagniti se
 nagovoriti
 naiven
 najti
 naključje
 naklonjenost
-nakup
 nameniti
 namig
 namigniti
@@ -311,13 +288,12 @@ nanaglo
 napad
 napeljati
 napovedati
-naprava
 napraviti
 napuh
-naravna
+na razpolago
 narediti
 nasilnež
-natlačiti
+natlačiti se
 navajati
 navdušenec
 navdušiti
@@ -328,13 +304,12 @@ nebistven
 neboječ
 nedosegljiv
 nedosežen
-nedovršni
+nedovršni čas
 nedvomno
 neformalen
 negiben
 negovati
 nekaj
-nekom
 nem
 nemir
 nenadomesten
@@ -381,7 +356,6 @@ nezadosten
 nezanesljiv
 nežen
 neznanski
-nežno
 nežnost
 nezrel
 nizek
@@ -398,16 +372,13 @@ objesten
 oblikovati
 obnovljen
 obogatiti
-obračati
-obrat
+obračati se
 obsedenost
 obsuti
 obuditi
 obvestilo
 očarati
-očarljiv
 oceniti
-očistiti
 oditi
 odkrit
 odkritosrčen
@@ -416,20 +387,17 @@ odlična
 odlično
 odločen
 odločilen
-odločiti
 odmor
-odobriti
 odporen
-odpovedati
+odpovedati se
 odpraviti
 odprt
 odpustitev
 odpustiti
-odreči
+odreči se
 odškodnina
 odstopiti
 odstraniti
-odtenek
 odvezati
 odvisen
 ognjevit
@@ -437,8 +405,8 @@ ogromen
 ohladiti
 ohol
 okamnel
-okoriščati
-okoristiti
+okoriščati se
+okoristiti se
 okrasiti
 okus
 omamljen
@@ -452,7 +420,6 @@ oprostiti
 orgija
 originalen
 orogeneza
-oseba
 oskrbeti
 oslarija
 osnoven
@@ -465,15 +432,12 @@ osvajalen
 osvoboditi
 osvojiti
 otročarija
-otrok
 označiti
 padati
 pasiven
 pasti
 pavza
-peljati
 persistenten
-pesem
 peti
 pijanec
 pikanten
@@ -483,7 +447,6 @@ piti
 plameneč
 plen
 ploden
-po
 počasi
 poceni
 podaljšati
@@ -494,7 +457,6 @@ podpirati
 podpreti
 podvig
 podžigati
-pogled
 pognati
 pogoltniti
 pogumen
@@ -502,13 +464,13 @@ pohlepen
 pojasniti
 pokvarjen
 polaskati
-poleči
+poleči se
 poletavati
-položaj
 pomagati
 pomehkužen
 pomemben
 pomiriti
+po modi
 ponižati
 ponosen
 popadljiv
@@ -523,13 +485,13 @@ poraziti
 poreden
 poriniti
 porivati
-poročiti
+poročiti se
 pošasten
 poseben
 posebnost
 posiliti
 poskakovati
-posrečiti
+posrečiti se
 postati
 postaviti
 potekati
@@ -538,10 +500,10 @@ potraten
 potreben
 potuhnjen
 povečati
+povečati se
 povedati
 povprečen
 povsem
-pozdraviti
 poželjenje
 poznati
 požrešen
@@ -551,7 +513,6 @@ prazen
 prebivati
 prebrisan
 prebuditi
-precej
 precejšen
 precizen
 predrzen
@@ -598,13 +559,13 @@ preveriti
 prevlada
 prevladati
 prevladovati
-prevračati
+prevračati se
 prevratnež
 prevratnik
 prevzet
 prevzeti
 prhutati
-približati
+približati se
 priden
 pridobiti
 priganjati
@@ -623,7 +584,6 @@ pritožba
 privabiti
 privlačiti
 prizadeti
-prizadevati
 prizadeven
 priznanje
 produktiven
@@ -636,8 +596,8 @@ pustiti
 pustolovski
 radosten
 radovati
+radovati se
 rahel
-rajši
 ravnodušen
 ravnodušnost
 razbijač
@@ -654,10 +614,8 @@ razlikovanje
 razmehkužiti
 raznežiti
 razočaran
-razpolago
 razpoloženje
 razposajen
-razrešiti
 razumeti
 razumevanje
 razuzdan
@@ -684,7 +642,6 @@ samopašen
 ščegetljiv
 ščemenje
 scrkljati
-se
 segati
 seksati
 šibek
@@ -694,9 +651,9 @@ silen
 siliti
 silno
 silovit
-širokoustiti
+širokoustiti se
 siten
-skladati
+skladati se
 skopuški
 skrajen
 skrajno
@@ -715,56 +672,49 @@ slučaj
 slutnja
 smel
 smešen
-snov
 snovati
 sočustvovati
 sočutje
 soglašati
 šopiriti
-spati
+spati z nekom
 spodbadati
 spodbosti
 spodbuditi
 spodbujati
-spolno
+spolno občevati
 spoštovati
-spraviti
 spremeniti
+spremeniti se
 sprostiti
 sprožiti
 srce
 srčen
-srečno
 srh
 stabilen
 stalen
-stanje
 stanoviten
 starinski
 staromoden
 stati
 statičen
-število
 stil
 stiskati
 stisniti
-storiti
 strahospoštovanje
-stran
 strašen
 strast
 strasten
 stremeti
 stremljiv
 štrlina
-stružiti
+stružiti se
 surov
 surovež
 surovina
 svarilen
 svetel
 svež
-svinec
 svoboden
 tankočuten
 tečen
@@ -790,14 +740,13 @@ trenje
 trepetati
 tresti
 trezen
-trik
 triumfalen
 trma
 trmast
 trpeti
 trpinčiti
 tršat
-truditi
+truditi se
 tvegan
 tvegav
 ubiti
@@ -807,11 +756,12 @@ udariti
 udarjanje
 ugajati
 ugleden
-ugoden
+ugoden nakup
 ugoditi
 ugotoviti
 ujedljiv
 ujemati
+ujemati se
 ujeti
 umeten
 umiriti
@@ -820,7 +770,6 @@ upravičiti
 urediti
 uročiti
 urok
-usmerjen
 usmiljenje
 usmiljenost
 usposobljen
@@ -830,7 +779,6 @@ ustvariti
 utemeljevati
 utemeljiti
 uvedba
-v
 vabiti
 varčnost
 varljiv
@@ -838,10 +786,9 @@ večen
 vedeti
 veličasten
 velik
-verjeti
 vesel
-veseliti
-vik
+veseliti se
+vik in krik
 visok
 vizionaren
 vladati
@@ -850,16 +797,14 @@ vnet
 vnetje
 voditi
 volja
-voljo
 vonjav
 vpadljivost
 vplivati
-vreči
+vreči se
 vreti
 vrniti
 vroč
-vršiti
-vsakdanji
+vršiti se
 vzbuditi
 vzdržati
 vžigalo
@@ -871,8 +816,6 @@ vznemirjenost
 vztrajati
 vztrajen
 vztrajnost
-z
-za
 zabava
 zabaven
 začarati
@@ -896,12 +839,9 @@ zapleten
 zapraviti
 zapravljiv
 zapustiti
-zaščititi
 zasenčiti
-zaslužek
 zasuti
-zateči
-zaupati
+zateči se
 zaupljiv
 zavesti
 zavidanje
@@ -917,26 +857,22 @@ zbrati
 zbuditi
 zdrav
 zdraviti
-žejen
 zelo
 zgleden
-zgodba
-zgoditi
+zgoditi se
 zgorevati
 zgovoren
 živahen
-zmaga
 zmagati
 zmagoslaven
 zmagovit
 zmeda
 zmesti
-znak
 znamenit
 znamenje
 znaten
 znati
-zrušiti
+zrušiti se
 zvabiti
 zveneti
 zvijačen

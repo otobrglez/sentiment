@@ -38,11 +38,9 @@ avtonomen
 avtonomija
 avtoritaren
 avtorizacija
-backbone
+backbone povezava
 bajen
 bajesloven
-barva
-beseda
 biser
 bister
 bistroglavost
@@ -50,6 +48,20 @@ bistrost
 bistroumen
 bistroumnost
 bistven
+biti bogat
+biti hvaležen
+biti izčrpan
+biti nagnjen
+biti naravnan
+biti naslednik
+biti odškodovan
+biti povišan
+biti prepričan
+biti usmerjen
+biti uspešen
+biti višji
+biti všeč
+biti zaljubljen
 blagajna
 blaginja
 blago
@@ -59,12 +71,14 @@ blagor
 blagoroden
 blagoslov
 blagosloviti
+blag veter
 blažen
 blaženje
 blaženost
 bledica
 bledost
 bleščanje
+bleščati
 bleščeč
 blesk
 blesteti
@@ -76,7 +90,6 @@ bodrilo
 bog
 bogastvo
 bohoten
-bolečin
 boljšanje
 boljšati
 boljši
@@ -89,10 +102,10 @@ bratovski
 bratski
 bratsko
 breskev
-brez
 !?brezalkoholen
 !?brezalkoholna
 !?brezalkoholno
+brez bolečin
 brezdanji
 brezglasen
 brezgrajen
@@ -103,6 +116,8 @@ brezmejen
 brezplačen
 brezpogojen
 brezšumen
+brez težav
+brez težave
 brhkost
 briljanten
 briljirati
@@ -115,12 +130,14 @@ budnost
 buket
 čar
 čaroben
+čarovniški
 čast
 časten
 častilec
 čednost
 cel
 celota
+cenen nakit
 ceniti
 cenjen
 čestitanje
@@ -129,25 +146,25 @@ cenjen
 čil
 cimer
 čin
-cirkuški
+cirkuški šotor
 čiščenje
 čislanost
 čistilec
 čistilo
 čistiti
+čisto nov
 čistost
 čitljiv
 civilen
 civilizirati
 človečnost
-čoln
 copatarski
-črnska
+črnska duhovna pesem
 čudenje
 čudež
 čudežen
-čudežni
-čudežno
+čudežni otrok
+čudežno zdravilo
 čudovit
 čuječ
 čuječnost
@@ -168,48 +185,55 @@ darežljiv
 darežljivost
 darovalec
 darovati
-datum
-davek
+datum poteka roka
+davek mafiji
 dejanski
 dekorirati
 dela
 delavnost
 delikatesa
-delovno
+delo
+delovno mesto
 delujoč
 demokratičen
-denarna
-denarno
+denarna kazen
+denarno nadomestilo
 desert
 desna
+desna roka
+desna stran
+desna stran igrišča
 desni
 desnica
 despotski
 deviški
-dežela
 diafan
 dičen
 dinamičen
 diplomatski
 diskretnost
 dober
+dober glas
 dobiček
 dobičkonosen
 dobitek
-dobra
+dobra beseda
+dobra volja
 dobrikav
 dobro
 dobrodejen
 dobrodelen
-dobrodelna
+dobrodelna prireditev
 dobrodošel
 dobrodušen
 dobrohoten
 dobrohotnost
 dobronameren
+dobro premišljen
 dobrota
 dobrotljiv
 dobrotnik
+dobro vzgojen
 dodatek
 dodaten
 dognati
@@ -227,7 +251,7 @@ domoljuben
 donacija
 doneti
 donosen
-dopasti
+dopasti se
 dopolnilen
 dopolnilo
 dopolnjevati
@@ -254,20 +278,22 @@ dozoreti
 dragec
 dragi
 dragica
+drag kamen
 dragulj
 dražest
-drugem
+dražiti se
 družabnost
-družiti
+družiti se
+držati
 duhovit
 duhovitost
-duhovna
 duhovnik
 duševen
-duševni
+duševni mir
 dušnik
 dvig
 dvigati
+dvigati se
 dvigovati
 dvojnik
 dvorljiv
@@ -290,6 +316,7 @@ eliten
 elokvenca
 elokventen
 empatija
+enak
 enako
 enakomeren
 enakovreden
@@ -322,10 +349,10 @@ fer
 fermentirati
 fertilen
 fevdalec
-fevdni
+fevdni gospodar
 fiksen
 fiksirati
-finančna
+finančna podpora
 finost
 fleksibilnost
 frfotanje
@@ -337,17 +364,19 @@ galanten
 galantnost
 garancija
 genialen
-geometrijsko
+geometrijsko telo
+gibati se
 gibčen
 gibčnost
 gibek
 gizdalin
 gladiola
 gladko
-glasbena
+glasbena harmonija
+glasbena spremljava
 glasovit
 glaven
-glavni
+glavni igralec
 globoko
 glorija
 gloriola
@@ -357,7 +386,7 @@ gorostasen
 gospodar
 gospodaren
 gospodarnost
-gospodarska
+gospodarska neodvisnost
 gospodarski
 gosposki
 gotov
@@ -398,7 +427,7 @@ hraniti
 hranjenje
 hranljiv
 hrbtenica
-hrbtenično
+hrbtenično omrežje
 hrbtišče
 hrustljav
 human
@@ -414,19 +443,20 @@ hvalisati
 hvaliti
 ideal
 idol
-igralec
-igrišča
+igralec stav
 igrivost
 iluminirati
 ilustrirati
 imaginativen
 imenitnost
+imeti rad
+imeti srečo
+imeti za
 impresarij
 impresivnost
-Indija
-industrijski
+Indija Koromandija
+industrijski obrat
 infiniten
-informacij
 informacija
 informativen
 ingeniozen
@@ -443,7 +473,6 @@ inteligenten
 intenzivno
 interes
 interesanten
-internetna
 intimnost
 intriga
 invenciozen
@@ -452,10 +481,13 @@ inventivnost
 iskrenje
 iskrica
 iskriti
+iskriti se
 isti
+iti mimo
 izbirati
 izboljšanje
 izboljšati
+izboljšati se
 izboljšava
 izboljševanje
 izboren
@@ -465,13 +497,13 @@ izdaten
 izgovarjati
 izgovoriti
 izhajati
+izjaviti pod prisego
 izjemen
 izjemoma
-izkazati
-izključna
+izkazati se
+izključna pravica
 izkušen
-izlečiti
-izmenjanih
+izlečiti se
 izmenljiv
 iznajdba
 iznajdljiv
@@ -490,9 +522,11 @@ izpolnjevanje
 izpolnjevati
 izpopolnitev
 izpopolniti
+izpopolniti se
 izpopolnjen
 izposlovati
 izprati
+izprazniti se
 izrazit
 izreči
 izročitev
@@ -509,7 +543,7 @@ izvir
 izviren
 izvirnik
 izvirnost
-izvorna
+izvorna kopija
 izvrševati
 izvršiti
 izvršljiv
@@ -517,14 +551,12 @@ izvrstnost
 izvzetje
 jamčiti
 jamstvo
-jantarna
+jantarna barva 
 jasno
 jasnost
 jasnovidec
-javna
-javno
-jekla
-jeklo
+javna varnost
+javno stranišče
 jovialen
 junačiti
 junak
@@ -532,18 +564,17 @@ junakinja
 junaški
 junaško
 junaštvo
-kakovosti
 kancler
 kanonizirati
 kapitan
-karta
 kartel
 kerub
 kerubinski
+ki poziva
+ki spomni
 klapast
 klasičen
 klen
-ključ
 kodrast
 koherenca
 kohezija
@@ -560,8 +591,6 @@ konfident
 konkurenčen
 kontakt
 kontinuiteta
-kopija
-kopno
 korajža
 korajžen
 korekcija
@@ -571,11 +600,10 @@ korektura
 korist
 koristnik
 kornet
-Koromandija
-kraj
 kraljevski
 krasiti
 kratkočasen
+krčiti
 krdelo
 kredibilnost
 krepilen
@@ -583,7 +611,7 @@ krepost
 kreposten
 krepostnost
 krhkost
-kriliti,
+kriliti, prhutati
 kristalen
 krmarjenje
 krokanje
@@ -605,13 +633,12 @@ kupovati
 kurtoazen
 kvadraten
 kvaliteten
-ladijski
+ladijski čoln
 lagoden
 lagodnost
 lahko
 lahkomiselnost
 lahkotnost
-lahkoto
 lajšanje
 lajšati
 lapidaren
@@ -619,11 +646,12 @@ laskav
 legendaren
 legitimen
 legitimnost
-lepiti
+lepiti se
 lepota
 lepotec
 lepotica
 lepotička
+lep otročiček
 lepšati
 lesk
 lesketati
@@ -653,22 +681,24 @@ lukrativen
 luksusen
 luksuz
 lukulski
-luščiti
+luščiti se
 maestro
-mafiji
 magija
 magister
 magnet
 mahinacija
 majanje
 majesteta
+majica
 malik
 malikovati
 mamilen
 mamljiv
+manjši
 marelica
 marljiv
 marljivost
+maščevati se
 master
 meček
 meden
@@ -676,15 +706,14 @@ medvrstnik
 mehek
 mejen
 meliorirati
+meriti na
 mesiti
-mesto
 migljaj
 migotanje
 mikaven
 milina
 milost
-mimo
-ministrski
+ministrski predsednik
 minuciozen
 mir
 !?miren
@@ -693,7 +722,7 @@ mirno
 mirnodušen
 mirnodušnost
 mirnost
-mirovna
+mirovna pogodba
 misliti
 mitološki
 mladeniški
@@ -701,7 +730,7 @@ mladosten
 mnogostranost
 mnogostranski
 mnogovrstnost
-močnejšega
+moč
 moden
 moderen
 moderna
@@ -713,12 +742,12 @@ mogočen
 mojster
 mojstrovina
 mojstrski
-moment
 morala
 možat
 možen
 možgani
 načelen
+način
 nacionalist
 načitan
 nada
@@ -734,6 +763,8 @@ nadomestiti
 nadomestljiv
 nadrejeni
 nagib
+nagibati (se)
+nagniti (se)
 nagnjenje
 nagovarjati
 nagrada
@@ -741,16 +772,14 @@ nagraditi
 najbrže
 najprej
 nakazilo
-nakit
 naklonjen
 namestiti
-napake
+naprava
 napredek
 napreden
 napredovanje
 napredovati
-naprej
-naravnan
+naravna selekcija
 naravnati
 naravosloven
 naravoslovski
@@ -759,10 +788,9 @@ naslada
 naslajanje
 naslajati
 naslediti
-naslednik
 naslednji
-nasloniti
-naslovna
+nasloniti se
+naslovna zgodba
 nasmeh
 nastaviti
 nastavljiv
@@ -776,7 +804,9 @@ navdihniti
 navdušen
 navdušenje
 navduševati
+navduševati se
 navodilo
+na voljo
 navor
 nazdraviti
 nebesa
@@ -832,8 +862,8 @@ nepristranost
 nepristranskost
 neranljiv
 neresnost
-nerjavna
-nerjavno
+nerjavna jekla
+nerjavno jeklo
 neskaljen
 neškodljiv
 neskončen
@@ -852,6 +882,7 @@ nezmagljiv
 nezmoten
 nezmotljiv
 nezmotljivost
+nežno
 niansa
 nimb
 nimbus
@@ -892,7 +923,7 @@ oblika
 oblizek
 obljuba
 obljubiti
-obljubljena
+obljubljena dežela
 obnoviti
 obogatitev
 oboževalec
@@ -905,7 +936,7 @@ obširno
 obstret
 obuditev
 obvarovati
-obveščevalna
+obveščevalna služba
 obveza
 obvladanost
 obvladati
@@ -915,12 +946,13 @@ obzirnost
 očaran
 očaranje
 očaranost
+očarljiv
 ocenjevati
 očiščevanje
-odeja
+očistiti
 odgovoriti
 odjekniti
-odkašljati
+odkašljati se
 odkritje
 odkrito
 odkritosrčnost
@@ -929,6 +961,8 @@ odkup
 odličnost
 odlika
 odlikovati
+odlikovati se
+odločiti
 odločnost
 odmevati
 odmeven
@@ -937,25 +971,27 @@ odnos
 odobravanje
 odobravati
 odobritev
+odobriti
+odobriti posojilo
 odpeljati
 odpreti
 odprtost
 odpuščanje
 odpustek
-odraslo
 odraslost
+odraslo življenje
 odražati
 odrešenik
 odrešitelj
-odškodovan
 odškodovati
+odtenek
 odvesti
 odvetnik
 ogenj
 oglaševanje
 ognjen
 ognjevitost
-ogoliti
+ogoliti se
 ogreti
 ogromnost
 ohlajen
@@ -967,8 +1003,10 @@ ohranjevati
 ojačanje
 ojunačiti
 okoliščina
+okoristiti
 okrepčilen
 okrepiti
+okrepiti se
 okrepitve
 okreten
 okrevanje
@@ -980,11 +1018,10 @@ olajšati
 olepšati
 olikan
 olikanost
-oluščiti
+oluščiti se
 omen
 omikan
 omikati
-omrežje
 opazen
 opaziti
 opazovati
@@ -995,7 +1032,7 @@ opora
 opornik
 opraviti
 opremiti
-opreti
+opreti se
 oprezen
 oprostitev
 optimalen
@@ -1015,11 +1052,10 @@ ostroumnost
 ostvariti
 osvetliti
 osvežilen
-osvežiti
+osvežiti se
 osvoboditelj
 osvoboditev
 otrebiti
-otročiček
 ovacija
 ovrednotiti
 ožariti
@@ -1049,10 +1085,10 @@ paziti
 pazljiv
 Pb
 pedanten
+peljati
 penetranten
 peniti
 perfekcija
-persica
 pesniški
 pestrost
 petičen
@@ -1078,13 +1114,11 @@ ploskati
 ploven
 poboljšanje
 poboljšati
+poboljšati se
 pobožen
 pobožnost
 počistiti
 počitek
-pod
-podatki
-podatkov
 podenje
 podjeten
 podkrepiti
@@ -1097,7 +1131,7 @@ podražitev
 podrepniški
 podvezica
 poenostaviti
-pogodba
+pogled
 pogum
 pogumno
 pohleven
@@ -1112,15 +1146,14 @@ poklonitev
 poklopec
 pokoj
 pokončen
-pokrivalo
 pokrov
 pokrovitelj
 pokroviteljstvo
 polepšati
 poliran
-politična
+politična samostojnost
 poln
-polno
+polno število
 pomagač
 pomenljiv
 pomežikniti
@@ -1152,7 +1185,8 @@ popivati
 poplačati
 popolnost
 popravek
-popravljanje
+popraviti se
+popravljanje napake
 popravljati
 popularen
 popuščanje
@@ -1160,14 +1194,13 @@ porast
 poravnati
 porcija
 poroštvo
-posebna
+posebna pravica
 pošiljka
 poskrbeti
 posladek
 poslastica
 poslušen
 poslušnost
-posojilo
 pospeševati
 pospešiti
 pospremiti
@@ -1180,7 +1213,6 @@ poštenost
 posvečen
 posvečevati
 posvetiti
-poteka
 potrdilo
 potrditi
 potrjevati
@@ -1191,23 +1223,23 @@ poučen
 poveličevati
 poveriti
 povezanost
-povezava
-povišan
 povišati
 povodec
 povoljen
 povrnitev
+povrnitev v prejšnje stanje
 povzdigniti
 povzdigovanje
 povzdigovati
 povzročiti
 poza
 pozdrav
+pozdraviti
+pozdraviti se
 poželjiv
 pozerstvo
 pozitiven
 pozitivističen
-poziva
 poživiti
 pozlačen
 poznavalski
@@ -1217,6 +1249,7 @@ prav
 pravcat
 praven
 pravica
+pravica do tajnosti izmenjanih informacij
 pravičen
 pravično
 pravičnost
@@ -1232,9 +1265,10 @@ praznovati
 prebaven
 preboleti
 prebolevanje
+precej
 prečistiti
 preciznost
-predajanje
+predajanje užitkom
 predanost
 predelati
 predelovati
@@ -1243,10 +1277,10 @@ prediren
 predirno
 predlagati
 prednost
-predočiti
+predočiti si
 predpravica
-predsednik
-predstavljati
+predsednik vlade
+predstavljati si
 predvsem
 predvžig
 preferenčen
@@ -1258,12 +1292,11 @@ prehramben
 prehranjevalen
 prej
 prejeti
-prejšnje
 prekašati
 prekositi
 prelep
 premier
-premik
+premik naprej
 premišljevanje
 premoč
 premočen
@@ -1272,7 +1305,6 @@ prenoviti
 preobilen
 preobrazba
 preobraziti
-prepričan
 prepričanost
 prepričati
 prepričevalen
@@ -1284,7 +1316,7 @@ preseči
 presenečen
 presenetljiv
 preservativ
-prešita
+prešita odeja
 presrečen
 prestiž
 presvetliti
@@ -1296,7 +1328,7 @@ prevesel
 previden
 prevzetost
 prezaupljiv
-preživela
+preživela oseba
 preživetje
 prhanje
 pričvrstiti
@@ -1335,14 +1367,13 @@ priporočiti
 priprava
 pripraven
 pripraviti
+pripraviti se
 pripravljati
 pripravljenost
-prireditev
 priročen
 prirojen
 priseben
 priseči
-prisego
 prisiljenost
 prislužiti
 prispeti
@@ -1361,8 +1392,9 @@ pritrjevati
 privilegij
 privlačen
 privlačnost
-privoščiti
+privoščiti si
 privrženec
+prizadevati si
 prizanesljiv
 prizanesljivost
 prizanesti
@@ -1371,8 +1403,7 @@ profit
 profitirati
 proizvod
 proizvoden
-proizvodni
-prometu
+proizvodni obrat
 prominenca
 prompten
 proporcionalen
@@ -1381,6 +1412,7 @@ proslavitev
 proslavljanje
 prosojen
 prosperirati
+prost izhod na kopno
 prostoren
 prostost
 prostran
@@ -1390,13 +1422,13 @@ prosveta
 prosvetljen
 protekcionizem
 prožen
-prožiti
+prožiti se
 prožnost
 prozoren
 prsten
-Prunus
-prva
+Prunus persica
 prvak
+prva karta
 prvenstven
 prvi
 prvič
@@ -1405,9 +1437,9 @@ prvovrstnost
 punktualen
 raba
 racionalen
-racionalno
+racionalno število
 rad
-rade
+rade volje
 radodaren
 radodarnost
 radost
@@ -1416,10 +1448,11 @@ radoživ
 rafiniran
 rafinirati
 raj
+rajši
 rasti
 ravnatelj
 ravno
-razbijati,
+razbijati, udarjati
 razborit
 razbremeniti
 razcvet
@@ -1444,8 +1477,9 @@ raznoličnost
 raznolikost
 raznovrstnost
 razpoložljiv
-razprostirati
+razprostirati se
 razpršen
+razrešiti
 razsoden
 razsvetiti
 razsvetliti
@@ -1460,6 +1494,7 @@ razumnost
 razumski
 razvedriti
 razveseljiv
+razvijati se
 razvit
 razvitost
 razvnet
@@ -1471,7 +1506,6 @@ reanimirati
 receptivnost
 reden
 redilen
-redu
 refleksija
 reforma
 regenerirati
@@ -1489,6 +1523,7 @@ renomiran
 reševalec
 rešitelj
 rešiti
+rešiti se
 resničen
 resnicoljuben
 resnicoljubnost
@@ -1507,7 +1542,6 @@ rodoljub
 rodoljuben
 rodoviten
 rodovitnost
-roka
 rotitev
 rovarjenje
 rutiniran
@@ -1535,20 +1569,17 @@ sapica
 ščeget
 ščegetati
 ščititi
-(se)
-sedma
+se
+sedma nebesa
 sef
 sejem
 seksualen
-selekcija
 selektiven
 senzacija
 senzibilen
 senzoričen
-si
 sigurno
 sigurnost
-sij
 sijaj
 sijati
 sijoč
@@ -1561,12 +1592,12 @@ simplificirati
 sirenski
 širok
 širokogruden
-širokopasovna
+ širokopasovna internetna povezava
 skakljati
 sklad
 skladen
 skladnost
-sklicevati
+sklicevati se
 skrben
 skrbnik
 skuhati
@@ -1590,14 +1621,12 @@ slavna
 slavne
 slavno
 slavnosten
-sleči
-sledenja
+sleči se
 slediti
 sličen
 slikovit
 slišen
 sloga
-sloj
 sloveč
 sloves
 slovit
@@ -1612,7 +1641,7 @@ smernica
 smiseln
 snubiti
 sočen
-socialna
+socialna podpora
 soden
 sodoben
 sodobno
@@ -1627,7 +1656,6 @@ sončen
 sorazmeren
 sorodnost
 sostanovalec
-šotor
 sozvočje
 špica
 spočit
@@ -1639,7 +1667,6 @@ spokojen
 spokojnost
 spolen
 spominek
-spomni
 sponzor
 sporočilo
 športen
@@ -1647,11 +1674,11 @@ sporočilo
 sposoben
 sposobnost
 spoštovanje
+spraviti
 spravljiv
 sprejemljiv
 sprejeti
 sprememba
-spremljava
 spreten
 spretnost
 srčece
@@ -1659,20 +1686,20 @@ srček
 srčnost
 sreča
 srečen
-srečo
+srečno
 stabilizirati
 stabilnost
 stalnost
 stanovitnost
-stav
 šteti
+šteti za
 stik
 stimulacija
 stimulativen
 stimulus
 stlačiti
 stopnjevati
-stranišče
+storiti
 strastnost
 štrcniti
 strežnik
@@ -1691,22 +1718,24 @@ supremacija
 supremat
 suspenzija
 svet
-sveti
+sveti kraj
 svetilen
-svetiti
+svetiti se
 svetlikanje
 svetlikati
+svetlikati se
 svetlo
 svetnik
 svetniški
+svetniški sij
 svetništvo
 svetost
 svilast
 svilen
 svilnat
+svinec
 svit
 svoboda
-tajnosti
 takoj
 talent
 talentiran
@@ -1715,14 +1744,10 @@ tankovesten
 tehničen
 tekmovalen
 tekoč
-tekočina
-telesna
-telo
+telesna tekočina
 temelj
 temeljen
-tesno
-težav
-težave
+tesno prijateljstvo
 tipičen
 tišina
 tiskati
@@ -1736,9 +1761,9 @@ tolažba
 tolažilen
 toplota
 tovarna
-tovorni
+tovorni čoln
 trajnost
-trdna
+trdna snov
 trdnost
 triumf
 triumfirati
@@ -1754,7 +1779,6 @@ ubranost
 učen
 učinkovit
 učinkovitost
-udarjati
 udejanjiti
 udoben
 udobje
@@ -1763,6 +1787,8 @@ uglajen
 uglajenost
 uglasiti
 ugled
+ugoden
+ugoden položaj
 ugodje
 uklet
 umen
@@ -1776,7 +1802,7 @@ umirjenost
 umljiv
 umnost
 umstven
-univerzalni
+univerzalni ključ
 unovčiti
 upanje
 upati
@@ -1801,6 +1827,7 @@ usklajen
 usluga
 usmeritev
 usmeriti
+usmeriti se
 usmerjanje
 usmiljen
 usoda
@@ -1832,7 +1859,6 @@ uvideven
 uvidevnost
 uvod
 užitek
-užitkom
 uživanje
 uživaški
 uživati
@@ -1854,11 +1880,12 @@ vdajanje
 vdanost
 vdih
 vdihniti
-večati
+v drugem
+večati se
 večvrednost
 veder
 vedrina
-vektor
+vektor sledenja
 veličanstvo
 veličastnost
 veličati
@@ -1866,10 +1893,12 @@ veličina
 velikanski
 velikodušen
 velikodušnost
+velik ugled
 veljaven
 vera
 veren
 verjeten
+verjeti
 verodostojen
 verodostojnost
 veroizpoved
@@ -1878,26 +1907,25 @@ verski
 verziran
 vešč
 veščina
+veseliti
 veseljačenje
 veseljačiti
 veselje
-veseljem
 veselost
 vest
 vesten
-veter
 vetrič
 viden
 videti
 vihteti
 virtuoz
 višek
-višji
+višji sloj
+visok položaj
 viteška
 viteški
 viteško
 viteštvo
-vlade
 vleka
 vljuden
 vljudnost
@@ -1909,16 +1937,19 @@ vodja
 vodljiv
 vodnjak
 vodstvo
-vojaški
-volje
+vojaški pozdrav
 voljnost
 voščiti
-voziti
+voziti se
 vpliven
+v prometu
 vreden
+vreden biti
 vrednost
+vrednost zaupanja
+v redu
 vrh
-vrhnja
+vrhnja stran
 vrhunec
 vrisk
 vriskanje
@@ -1928,15 +1959,15 @@ vrlost
 vrsta
 vrtavka
 vrtilen
-vrtilni
+vrtilni moment
 vrvica
-všeč
+vsakdanji kruh
+všeč biti
 vsestranost
 vsestranski
 vzdrževati
 vzdržljiv
 vzgajati
-vzgojen
 vzhičen
 vzidan
 vžigalnik
@@ -1945,6 +1976,7 @@ vzor
 vzpostaviti
 vztrajanje
 vzvišen
+z
 zabavati
 zabavnost
 začaran
@@ -1970,12 +2002,13 @@ zagotavljati
 zagotovilo
 zagotoviti
 zahvaliti
+zahvaliti se
 zahvalnica
 zajamčiti
 zaklad
-zakon
 zakonit
 zakonitost
+zakon močnejšega
 zakonski
 zalek
 zaljubljen
@@ -1987,14 +2020,16 @@ zamaknjenost
 zamegljen
 zamenjava
 zamisel
-zamišljati
-zanašanje
-zanašati
+zamišljati si
+zanašanje 
+zanašati se
+zanašati se na
 zanesen
 zanesljiv
 zanesljivo
 zanesljivost
-zanesti
+zanesti se
+zanesti se na
 zanimiv
 zapadlost
 zapeljiv
@@ -2009,12 +2044,14 @@ zares
 zarja
 zaščita
 zaščiten
-zaščitno
+zaščititi
+zaščitno pokrivalo
 zaslutiti
+zaslužek
 zaslužen
 zasluženo
 zaslužiti
-zaslužna
+zaslužna oseba
 zaslužnost
 zastaviti
 zastonj
@@ -2022,16 +2059,16 @@ zastopnik
 zatrdilo
 zatrjevanje
 zatrjevati
-zaupanja
 zaupanje
+zaupati
 zaupen
 zaupljivost
-zaupna
-zaupni
+zaupna informacija
 zaupnik
+zaupni podatki
 zaupnost
 zavarovati
-zavedati
+zavedati se
 zaveza
 zavidati
 zavih
@@ -2039,38 +2076,43 @@ zavzeti
 zaželen
 zaznaten
 zbiranje
+zbiranje podatkov
 zbližanje
 zboljšati
 zbran
 zdravilen
 zdravilo
+zdraviti se
 zdravstven
 združljiv
 zdržljiv
+žejen
 želeti
 želja
 željan
 željen
 željno
+zelo visok
 zenit
 žgečkanje
 žgečkati
 zgled
-zgnojiti
+zgnojiti se
 zgodovinski
-zgornja
+zgornja stran
 zgovornost
 živ
 živahnost
-življenje
 zlahka
 zlahkoma
+z lahkoto
 žlahtnik
 zlat
-zlata
+zlata jama
+zlata mrzlica
 zlato
 zlepa
-zmage
+zmaga
 zmagoslavje
 zmagovalec
 zmeren
@@ -2079,6 +2121,8 @@ zmogljivost
 zmožen
 zmožnost
 značilen
+znak kakovosti
+znak zmage
 znan
 znosen
 zopet
@@ -2090,8 +2134,9 @@ zrasti
 zredčiti
 zrel
 zrelost
-zvedriti
+zvedriti se
 zveneč
+z veseljem
 zvest
 zvesto
 zvestoba
