@@ -26,7 +26,6 @@ def construct_synonyms(infile, outfile)
     File.open(infile, "r") do|fin|
       fin.each_line do |line|
         fout.puts(get_synonyms line.chomp)
-        count += 1
         puts "processed #{count} words..." if (count += 1) % 10 == 0
       end
     end
