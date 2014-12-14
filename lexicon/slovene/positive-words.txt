@@ -1,42 +1,26 @@
 administrativen
 adut
 afektacija
-afektirano
 afera
-afiniteta
 aklamacija
-aktiven
-altruističen
 ambicija
 ambiciozen
-amnestija
 angel
 angelski
-animirati
 aparat
 aparten
-apaški
-apel
 aplavdirati
 apoteoza
 aprobacijski
-aretirati
-aristokratski
 aroma
-aromatičen
 as
 asistent
-asistirati
 aspiracija
-aspirirati
 astralen
 atrakcija
 Au
-avtentičen
 avtentikacija
-avtonomen
 avtonomija
-avtoritaren
 avtorizacija
 backbone povezava
 bajen
@@ -45,27 +29,10 @@ biser
 bister
 bistroglavost
 bistrost
-bistroumen
 bistroumnost
-bistven
 biti bogat
-biti hvaležen
-biti izčrpan
-biti nagnjen
-biti naravnan
-biti naslednik
-biti odškodovan
-biti povišan
-biti prepričan
-biti usmerjen
-biti uspešen
-biti višji
-biti všeč
-biti zaljubljen
 blagajna
 blaginja
-blago
-blagodišeč
 blagohotnost
 blagor
 blagoroden
@@ -79,19 +46,15 @@ bledica
 bledost
 bleščanje
 bleščati
-bleščeč
 blesk
 blesteti
 blišč
-blizek
 bližina
 bodoč
 bodrilo
 bog
 bogastvo
-bohoten
 boljšanje
-boljšati
 boljši
 bolničar
 boniteta
@@ -101,29 +64,14 @@ božji
 bratovski
 bratski
 bratsko
-breskev
-!?brezalkoholen
-!?brezalkoholna
-!?brezalkoholno
-brez bolečin
-brezdanji
-brezglasen
 brezgrajen
 brezhiben
 brezhibnost
-brezmadežen
-brezmejen
-brezplačen
 brezpogojen
-brezšumen
-brez težav
-brez težave
 brhkost
-briljanten
 briljirati
 bruc
 brucka
-brz
 brže
 buden
 budnost
@@ -137,16 +85,10 @@ buket
 čednost
 cel
 celota
-cenen nakit
-ceniti
 cenjen
 čestitanje
 čestitati
-čezmerno
-čil
-cimer
 čin
-cirkuški šotor
 čiščenje
 čislanost
 čistilec
@@ -154,78 +96,40 @@ cirkuški šotor
 čistiti
 čisto nov
 čistost
-čitljiv
 civilen
 civilizirati
 človečnost
 copatarski
-črnska duhovna pesem
-čudenje
-čudež
 čudežen
-čudežni otrok
 čudežno zdravilo
 čudovit
 čuječ
 čuječnost
-curek
-čutilo
-čuvaj
-čuvati
 cvesti
 cvet
 cvetenje
 cveteti
-cvetoč
 čvrsto
 čvrstost
 cvrtnjak
 daljnovidnost
-darežljiv
 darežljivost
 darovalec
-darovati
 datum poteka roka
 davek mafiji
-dejanski
-dekorirati
 dela
 delavnost
-delikatesa
-delo
-delovno mesto
 delujoč
 demokratičen
-denarna kazen
-denarno nadomestilo
-desert
-desna
-desna roka
-desna stran
-desna stran igrišča
-desni
-desnica
-despotski
-deviški
-diafan
-dičen
-dinamičen
 diplomatski
 diskretnost
 dober
 dober glas
-dobiček
-dobičkonosen
-dobitek
 dobra beseda
 dobra volja
 dobrikav
 dobro
-dobrodejen
 dobrodelen
-dobrodelna prireditev
-dobrodošel
-dobrodušen
 dobrohoten
 dobrohotnost
 dobronameren
@@ -236,102 +140,53 @@ dobrotnik
 dobro vzgojen
 dodatek
 dodaten
-dognati
-dojeti
-dokončan
 dokončnost
-dokumentacija
-dolgoživ
 domenjen
 domiseln
 domiselnost
 domišljija
 domoljub
 domoljuben
-donacija
-doneti
-donosen
-dopasti se
 dopolnilen
 dopolnilo
 dopolnjevati
 dopusten
 dosegljiv
 dosleden
-dospeti
-dostati
 dosti
 dostojanstven
 dostojanstvenost
 dostojanstvo
-dostojen
 dostopen
-doumeti
 doumljiv
 dovolj
 dovoljen
-dovršen
-dovršiti
 dovzetnost
-dozdeven
 dozoreti
-dragec
-dragi
-dragica
 drag kamen
 dragulj
 dražest
-dražiti se
 družabnost
-družiti se
-držati
-duhovit
-duhovitost
 duhovnik
-duševen
 duševni mir
-dušnik
-dvig
-dvigati
-dvigati se
-dvigovati
-dvojnik
 dvorljiv
 eden
 edinost
 eklatanten
-ekonomičen
-ekonomski
-ekonomsko-socialen
 ekscelenca
-ekspeditiven
-eksperten
-ekstatičen
 ekstaza
 elan
 elastičen
 eleganca
 elita
-eliten
 elokvenca
-elokventen
 empatija
-enak
 enako
-enakomeren
-enakovreden
-enkraten
-enobarven
-enodušen
-enormen
 enoten
 enotnost
 enoumno
 enoznačno
 entuziast
-entuziastičen
-entuziazem
-epohalen
 epski
 erotičen
 eruditiven
@@ -341,98 +196,43 @@ evforičen
 evforija
 fair
 familiaren
-famozen
 fatum
-favorit
-favoritka
 fer
-fermentirati
-fertilen
-fevdalec
-fevdni gospodar
-fiksen
-fiksirati
-finančna podpora
-finost
 fleksibilnost
-frfotanje
 funkcionalen
-funkcionirati
 futurističen
-gabljiv
 galanten
 galantnost
-garancija
-genialen
-geometrijsko telo
-gibati se
 gibčen
 gibčnost
 gibek
-gizdalin
-gladiola
 gladko
 glasbena harmonija
-glasbena spremljava
-glasovit
-glaven
-glavni igralec
 globoko
 glorija
 gloriola
-gnesti
 gojiti
-gorostasen
-gospodar
-gospodaren
-gospodarnost
 gospodarska neodvisnost
-gospodarski
-gosposki
-gotov
 gotovost
 govorništvo
-gracilnost
 gracioznost
 graditi
-grafičen
-grafit
-grandiozen
 grelec
-gročiti
-gromovit
-gromozanski
 harmoničen
 harmonija
 heroizem
-heroj
-herojski
 herojstvo
-higieničen
 hipnotičen
-hiteti
 hitro
-hitrost
-hladiti
-hladnokrven
-hladnokrvnost
-hotenje
-hoteti
-hrabriti
 hrabro
 hrabrost
 hrana
-hranilen
 hraniti
 hranjenje
-hranljiv
 hrbtenica
 hrbtenično omrežje
 hrbtišče
-hrustljav
 human
-humor
-humorističen
 humorističnost
 hvala
 hvalen
@@ -443,109 +243,45 @@ hvalisati
 hvaliti
 ideal
 idol
-igralec stav
 igrivost
-iluminirati
-ilustrirati
-imaginativen
 imenitnost
-imeti rad
-imeti srečo
-imeti za
 impresarij
 impresivnost
 Indija Koromandija
 industrijski obrat
-infiniten
-informacija
 informativen
-ingeniozen
-inhalirati
-inovacija
-inspirirati
 instruktiven
 intakten
 integriteta
-intelektualec
 intelektualen
-inteligenca
 inteligenten
 intenzivno
-interes
 interesanten
 intimnost
-intriga
-invenciozen
-inventiven
 inventivnost
-iskrenje
-iskrica
 iskriti
-iskriti se
-isti
-iti mimo
-izbirati
 izboljšanje
-izboljšati
-izboljšati se
 izboljšava
 izboljševanje
-izboren
 izbran
-izbrizgati
-izdaten
-izgovarjati
-izgovoriti
-izhajati
-izjaviti pod prisego
-izjemen
-izjemoma
-izkazati se
 izključna pravica
 izkušen
-izlečiti se
 izmenljiv
-iznajdba
-iznajdljiv
-iznenaden
-iznenaditi
 izobilje
 izobražen
 izobraziti
-izpeljati
-izpeljevati
 izpeljiv
 izpirati
 izpolnitev
-izpolniti
 izpolnjevanje
-izpolnjevati
 izpopolnitev
-izpopolniti
-izpopolniti se
 izpopolnjen
-izposlovati
 izprati
-izprazniti se
-izrazit
-izreči
 izročitev
-izučen
-izum
-izumiteljski
 izurjen
-izustiti
-izvajati
 izvedljiv
-izvesti
-izvežban
-izvir
 izviren
-izvirnik
 izvirnost
-izvorna kopija
-izvrševati
-izvršiti
 izvršljiv
 izvrstnost
 izvzetje
@@ -554,45 +290,29 @@ jamstvo
 jantarna barva 
 jasno
 jasnost
-jasnovidec
 javna varnost
 javno stranišče
-jovialen
-junačiti
-junak
 junakinja
 junaški
 junaško
 junaštvo
 kancler
 kanonizirati
-kapitan
-kartel
 kerub
 kerubinski
 ki poziva
 ki spomni
-klapast
 klasičen
-klen
-kodrast
 koherenca
 kohezija
 kolaček
-kolosalen
 kompetenčen
-kompetenten
 kompliment
-koncept
 koncilianten
 kondom
-konektor
-konfident
 konkurenčen
-kontakt
 kontinuiteta
 korajža
-korajžen
 korekcija
 korektno
 korektnost
@@ -600,255 +320,133 @@ korektura
 korist
 koristnik
 kornet
-kraljevski
-krasiti
-kratkočasen
-krčiti
-krdelo
 kredibilnost
 krepilen
 krepost
-kreposten
 krepostnost
-krhkost
-kriliti, prhutati
-kristalen
 krmarjenje
-krokanje
-krokarija
-krokati
-kronati
-kronski
 krotek
 krotkost
-kruh
 kulanten
 kulminacija
 kultiviran
 kultivirati
 kulturen
-kupčija
-kupon
-kupovati
-kurtoazen
-kvadraten
 kvaliteten
-ladijski čoln
-lagoden
 lagodnost
-lahko
 lahkomiselnost
 lahkotnost
 lajšanje
-lajšati
-lapidaren
 laskav
 legendaren
 legitimen
-legitimnost
-lepiti se
 lepota
 lepotec
 lepotica
 lepotička
 lep otročiček
-lepšati
 lesk
 lesketati
-liberalec
-liberalen
 liričen
 lizunski
 lizunstvo
-ljubček
 ljubeč
-ljubek
-ljubezen
 ljubezenski
 ljubeznivost
-ljubi
 ljubimec
 ljubimkanje
 ljubitelj
 ljubkost
-ljubkovalen
 ljubljen
-ljubljenec
-ljubljenje
 ločljiv
 logičen
-lukrativen
-luksusen
-luksuz
-lukulski
-luščiti se
-maestro
-magija
-magister
 magnet
-mahinacija
 majanje
 majesteta
-majica
 malik
 malikovati
 mamilen
 mamljiv
-manjši
-marelica
 marljiv
 marljivost
 maščevati se
-master
-meček
 meden
 medvrstnik
-mehek
 mejen
-meliorirati
-meriti na
-mesiti
-migljaj
 migotanje
 mikaven
 milina
-milost
 ministrski predsednik
-minuciozen
 mir
-!?miren
 miritev
 mirno
-mirnodušen
-mirnodušnost
 mirnost
 mirovna pogodba
-misliti
 mitološki
-mladeniški
-mladosten
 mnogostranost
 mnogostranski
-mnogovrstnost
-moč
-moden
 moderen
 moderna
 moderno
-modnost
 modrost
 mogoč
-mogočen
-mojster
 mojstrovina
-mojstrski
 morala
-možat
 možen
-možgani
 načelen
-način
 nacionalist
 načitan
-nada
 nadahnjen
 nadarjen
-nadarjenost
-nadčutnost
 nadglavišče
-nadkriliti
-nadoblast
-nadoknaditi
-nadomestiti
 nadomestljiv
 nadrejeni
-nagib
-nagibati (se)
-nagniti (se)
-nagnjenje
-nagovarjati
 nagrada
-nagraditi
 najbrže
 najprej
 nakazilo
 naklonjen
-namestiti
 naprava
 napredek
 napreden
-napredovanje
-napredovati
 naravna selekcija
-naravnati
 naravosloven
 naravoslovski
 narejenost
 naslada
 naslajanje
-naslajati
-naslediti
 naslednji
-nasloniti se
-naslovna zgodba
 nasmeh
-nastaviti
 nastavljiv
-našteti
-natančen
 natečajen
-natisniti
 naturalističen
 navdih
 navdihniti
-navdušen
-navdušenje
-navduševati
 navduševati se
 navodilo
 na voljo
 navor
-nazdraviti
 nebesa
 nebeški
-nedavno
-nedogleden
 nedoglednost
-nedognan
 nedolžen
 nedotakljiv
-nedvoumen
 nedvoumno
-nehati
-nehlinjen
-neizčrpen
-neizmeren
-neizmerjen
-neizmerljiv
 neizmernost
 neizpodbiten
-nekoliko
 nekriv
-nemalo
-nemoten
 nemudoma
 nenaravnost
-neodvisen
 neodvisnost
 neokrnjen
 neomadeževan
 neomahljivost
 neomajnost
 neoporečen
-neoskrunjen
 neoskrunljiv
-neoviran
 neovrgljiv
 neovržen
-neplačan
 nepobiten
-nepokvarjen
-neporavnan
 nepoškodovan
 nepozaben
 neprecenljiv
@@ -856,29 +454,17 @@ neprekinjenost
 nepremagljivost
 nepremostljivost
 nepretrganost
-neprisiljen
-nepristran
 nepristranost
 nepristranskost
 neranljiv
 neresnost
-nerjavna jekla
-nerjavno jeklo
-neskaljen
 neškodljiv
-neskončen
 neskončnost
-nesondiran
 nespodbijan
 nesporen
 nespremenljivost
-neuničljiv
-neutruden
-neutrudljiv
 nevtralnost
 nezadolžen
-nezamenljiv
-nezmagljiv
 nezmoten
 nezmotljiv
 nezmotljivost
@@ -887,42 +473,22 @@ niansa
 nimb
 nimbus
 nirvana
-norenje
-noreti
-noseča
-nosilec
 notranji
-novica
-novost
 nrav
 nravnost
 nravoslovje
-nuditi
-nutritiven
 oaza
 občudovalec
-občutek
-občuten
-občutje
 obdarovanec
-obdarovati
 obdelan
-obdelati
-obdelovati
 oberoč
-obhajati
-obilen
 obilica
 obilje
 objektivnost
 objem
 objemati
 objeti
-obleči
-oblika
-oblizek
 obljuba
-obljubiti
 obljubljena dežela
 obnoviti
 obogatitev
@@ -930,29 +496,16 @@ oboževalec
 oboževalka
 oboževatelj
 oboževati
-obrajtati
-obratovati
-obširno
 obstret
 obuditev
-obvarovati
-obveščevalna služba
 obveza
-obvladanost
-obvladati
-obvladovanje
 obziren
 obzirnost
 očaran
 očaranje
 očaranost
 očarljiv
-ocenjevati
 očiščevanje
-očistiti
-odgovoriti
-odjekniti
-odkašljati se
 odkritje
 odkrito
 odkritosrčnost
@@ -960,282 +513,134 @@ odkritost
 odkup
 odličnost
 odlika
-odlikovati
 odlikovati se
-odločiti
 odločnost
-odmevati
 odmeven
-odmrzniti
 odnos
 odobravanje
 odobravati
 odobritev
-odobriti
-odobriti posojilo
-odpeljati
-odpreti
 odprtost
 odpuščanje
-odpustek
 odraslost
 odraslo življenje
-odražati
 odrešenik
 odrešitelj
-odškodovati
 odtenek
-odvesti
-odvetnik
-ogenj
 oglaševanje
-ognjen
-ognjevitost
-ogoliti se
-ogreti
 ogromnost
-ohlajen
-ohlapen
-ohrabriti
-ohraniti
-ohranjati
-ohranjevati
 ojačanje
-ojunačiti
 okoliščina
-okoristiti
 okrepčilen
 okrepiti
-okrepiti se
-okrepitve
 okreten
 okrevanje
-okrevati
 okrilje
-okusen
-olajšanje
-olajšati
-olepšati
 olikan
 olikanost
-oluščiti se
-omen
 omikan
 omikati
-opazen
-opaziti
-opazovati
 operativen
 oplemenititi
-opogumiti
 opora
-opornik
-opraviti
-opremiti
-opreti se
-oprezen
 oprostitev
 optimalen
 optimističen
 optimizem
-opulenten
-original
-orjaški
 osladiti
 osnova
-osnovanje
 osnovnik
-osrčiti
-ostrina
-ostroumen
 ostroumnost
-ostvariti
-osvetliti
-osvežilen
-osvežiti se
 osvoboditelj
-osvoboditev
-otrebiti
 ovacija
-ovrednotiti
-ožariti
-ozdraveti
 ozdravitev
 ozdravljenje
-ozek
-ozir
-ožiti
 oživitev
-oživiti
-pacient
-pajčevinast
 palačinka
-paladin
-palatin
 pamet
 pameten
 panaceja
-paraden
 paradiž
 pasjansa
 patriot
 patriotičen
 patriotski
-paziti
 pazljiv
-Pb
-pedanten
-peljati
-penetranten
-peniti
 perfekcija
 pesniški
-pestrost
-petičen
 pieteten
 pikantnost
 piljenje
-plačan
 plačilo
-plapolanje
-plavajoč
 plemenit
-plemenitaš
 plemenito
 plemenitost
-plemič
-plemiški
 plemstvo
 plodno
 plodnost
-plodonosen
 plodovitost
 ploskati
 ploven
 poboljšanje
-poboljšati
-poboljšati se
 pobožen
 pobožnost
-počistiti
-počitek
-podenje
 podjeten
-podkrepiti
-podoben
 podpiranje
 podpisati
 podpora
 podpornik
-podražitev
 podrepniški
 podvezica
 poenostaviti
-pogled
 pogum
 pogumno
 pohleven
 pohvala
 pohvalen
 pohvaliti
-pojmiti
-pojmljiv
-poklicati
 poklon
 poklonitev
-poklopec
 pokoj
-pokončen
-pokrov
 pokrovitelj
 pokroviteljstvo
-polepšati
-poliran
 politična samostojnost
 poln
 polno število
 pomagač
-pomenljiv
-pomežikniti
-pomilostitev
-pomilostiti
 pomiritev
 pomirjevalen
 pomirljiv
-pomladanski
-pomoč
 pomočnik
-ponehati
-ponehavati
-ponižnost
-ponočevati
-ponos
-ponoven
-ponoviti
-ponovljen
 ponudba
-ponuditi
-poobedek
-pooblaščen
 pooblastilo
 pooblastitev
-pooblastiti
-popeljati
-popivati
-poplačati
 popolnost
 popravek
-popraviti se
-popravljanje napake
-popravljati
 popularen
-popuščanje
-porast
-poravnati
 porcija
-poroštvo
 posebna pravica
 pošiljka
-poskrbeti
-posladek
-poslastica
 poslušen
 poslušnost
-pospeševati
-pospešiti
-pospremiti
 posrečen
-post
-postaven
 pošten
 poštenje
 poštenost
 posvečen
 posvečevati
 posvetiti
-potrdilo
 potrditi
-potrjevati
-potrpežljiv
 potrpežljivost
 potrpljenje
 poučen
 poveličevati
-poveriti
 povezanost
-povišati
-povodec
 povoljen
 povrnitev
 povrnitev v prejšnje stanje
-povzdigniti
 povzdigovanje
 povzdigovati
-povzročiti
 poza
-pozdrav
-pozdraviti
-pozdraviti se
 poželjiv
 pozerstvo
 pozitiven
@@ -1244,404 +649,208 @@ poživiti
 pozlačen
 poznavalski
 pozoren
-pozornost
 prav
-pravcat
 praven
 pravica
 pravica do tajnosti izmenjanih informacij
-pravičen
 pravično
 pravičnost
 pravicoljubnost
-pravilen
 pravilno
 pravilnost
 pravljičen
 pravočasen
-prazničen
 praznovanje
-praznovati
-prebaven
-preboleti
 prebolevanje
-precej
-prečistiti
 preciznost
-predajanje užitkom
 predanost
-predelati
-predelovati
 predigra
-prediren
 predirno
-predlagati
 prednost
-predočiti si
 predpravica
 predsednik vlade
-predstavljati si
 predvsem
-predvžig
 preferenčen
-prefinjen
 prefinjenost
 prehitevanje
 prehod
-prehramben
-prehranjevalen
 prej
-prejeti
 prekašati
 prekositi
-prelep
 premier
 premik naprej
 premišljevanje
-premoč
-premočen
-premožen
-prenoviti
-preobilen
-preobrazba
-preobraziti
 prepričanost
-prepričati
 prepričevalen
 prepričljiv
-preprost
 prerogativa
-prerokovati
-preseči
-presenečen
-presenetljiv
 preservativ
 prešita odeja
 presrečen
 prestiž
-presvetliti
-pretirano
-preudaren
 preudarnost
 preveličevati
 prevesel
-previden
 prevzetost
 prezaupljiv
 preživela oseba
 preživetje
-prhanje
-pričvrstiti
 pridnost
-pridobiten
 prihodnji
 prihranki
 prijateljski
 prijateljstvo
-prijazen
 prijaznost
 prijeten
-prijeti
-prikladen
 prikladnost
 prikupen
-prilagajati
 prilagodljiv
 prilagodljivost
-prilepiti
 prilizljiv
 prilizljivost
-priliznjen
 prilizovanje
 priljudnost
-primaren
 primeren
-primerljiv
 primerno
-primernost
 principialen
-prinesti
 priporočati
 priporočilo
 priporočiti
 priprava
 pripraven
-pripraviti
-pripraviti se
-pripravljati
 pripravljenost
 priročen
-prirojen
-priseben
-priseči
 prisiljenost
-prislužiti
-prispeti
-prispevati
-prispevek
 prisrčen
 prisrčnost
-pristen
-pritegniti
-pritisniti
-pritok
-pritrditi
 pritrjevalen
 pritrjevanje
-pritrjevati
 privilegij
 privlačen
 privlačnost
-privoščiti si
 privrženec
-prizadevati si
-prizanesljiv
 prizanesljivost
-prizanesti
-procvitati
-profit
-profitirati
-proizvod
-proizvoden
 proizvodni obrat
-prominenca
-prompten
 proporcionalen
-proslava
 proslavitev
 proslavljanje
-prosojen
-prosperirati
 prost izhod na kopno
-prostoren
 prostost
-prostran
 prostranost
 prostranstvo
 prosveta
 prosvetljen
 protekcionizem
 prožen
-prožiti se
 prožnost
-prozoren
-prsten
-Prunus persica
 prvak
-prva karta
-prvenstven
-prvi
 prvič
-prvoten
-prvovrstnost
 punktualen
 raba
 racionalen
 racionalno število
 rad
 rade volje
-radodaren
 radodarnost
 radost
-radovednost
-radoživ
-rafiniran
 rafinirati
 raj
 rajši
 rasti
-ravnatelj
 ravno
-razbijati, udarjati
 razborit
-razbremeniti
 razcvet
-razen
 razglabljanje
 razigran
-raziskava
-razjasniti
-razkošen
 razkošje
 razkošnost
 razkrinkanje
 razkritje
 razkrivanje
-različnost
-razlika
-razlikovalen
 razločevalen
-razločevanje
 razmerje
-raznoličnost
-raznolikost
-raznovrstnost
 razpoložljiv
-razprostirati se
-razpršen
-razrešiti
 razsoden
-razsvetiti
 razsvetliti
 razsvetljen
 razsvetljenski
 razum
 razumen
-razumljiv
 razumljivo
 razumljivost
 razumnost
 razumski
-razvedriti
-razveseljiv
-razvijati se
 razvit
 razvitost
-razvnet
-realen
 realističen
-realiziran
-realizirati
-reanimirati
 receptivnost
-reden
-redilen
 refleksija
-reforma
-regenerirati
-regulirati
-rehabilitirati
-reklamirati
 rekonvalescenca
 rekuperacija
-relief
 religija
 reminiscenčen
 remisija
 renome
-renomiran
 reševalec
 rešitelj
-rešiti
-rešiti se
-resničen
-resnicoljuben
 resnicoljubnost
 resno
-rever
 revitalizacija
-revolucionaren
-rezek
-rezerva
-rezervirati
-rezkost
 rimesa
-roba
 ročen
 rodoljub
 rodoljuben
-rodoviten
 rodovitnost
-rotitev
-rovarjenje
 rutiniran
 šaljivost
 samodopadljivost
-samostojen
 samostojnost
 samouprava
-samoupraven
 samovšečnost
-samozadosten
 samozadostnost
 samozadovoljstvo
 samozaupanje
 samozavest
 samozavestnost
-šampion
 sander
-sanitaren
 sanitarije
-saniteten
-sankcionirati
 sapica
-šarmanten
-ščeget
 ščegetati
-ščititi
-se
 sedma nebesa
 sef
-sejem
-seksualen
 selektiven
-senzacija
-senzibilen
 senzoričen
 sigurno
 sigurnost
 sijaj
 sijati
-sijoč
 sijoče
 simpatičen
 simpatično
-simpatija
 simplificirati
-širen
 sirenski
-širok
-širokogruden
  širokopasovna internetna povezava
-skakljati
-sklad
 skladen
 skladnost
-sklicevati se
 skrben
-skrbnik
-skuhati
 skupen
 sladek
-sladica
 sladiti
-sladkan
-sladkarija
 sladkati
-sladkobeseden
 sladkost
-sladostrasten
-slaščica
 slasten
 slava
 slaviti
-slavje
-slavljen
-slavna
-slavne
-slavno
-slavnosten
-sleči se
-slediti
-sličen
 slikovit
 slišen
 sloga
-sloveč
 sloves
-slovit
 složen
 složnost
-služba
-služiti
-smatrati
 smehljaj
 smelost
 smernica
-smiseln
 snubiti
-sočen
-socialna podpora
 soden
 sodoben
 sodobno
@@ -1651,38 +860,22 @@ soglasnost
 šolati
 solidarność
 solidarnost
-soliden
-sončen
 sorazmeren
-sorodnost
-sostanovalec
 sozvočje
 špica
-spočit
 spodbuda
-spodbuden
-spodoben
 spodobnost
-spokojen
 spokojnost
-spolen
 spominek
 sponzor
-sporočilo
 športen
 športniški
 sposoben
 sposobnost
 spoštovanje
-spraviti
 spravljiv
-sprejemljiv
-sprejeti
-sprememba
 spreten
 spretnost
-srčece
-srček
 srčnost
 sreča
 srečen
@@ -1691,160 +884,84 @@ stabilizirati
 stabilnost
 stalnost
 stanovitnost
-šteti
-šteti za
-stik
 stimulacija
-stimulativen
 stimulus
-stlačiti
-stopnjevati
-storiti
-strastnost
-štrcniti
-strežnik
-strnjen
-strogi
 strokoven
-strpeti
-strumen
-študij
-stvaren
-stvaritev
 subvencioniran
-šumeti
-superiornost
-supremacija
-supremat
-suspenzija
 svet
 sveti kraj
 svetilen
-svetiti se
 svetlikanje
 svetlikati
-svetlikati se
 svetlo
 svetnik
 svetniški
 svetniški sij
 svetništvo
 svetost
-svilast
-svilen
-svilnat
-svinec
-svit
 svoboda
 takoj
-talent
 talentiran
 tankoumnost
-tankovesten
 tehničen
 tekmovalen
-tekoč
-telesna tekočina
 temelj
-temeljen
 tesno prijateljstvo
 tipičen
 tišina
-tiskati
-tisoč
-tisočica
-toča
 točen
 točno
 točnost
 tolažba
 tolažilen
-toplota
 tovarna
-tovorni čoln
 trajnost
-trdna snov
 trdnost
 triumf
-triumfirati
 trobenta
 trofeja
-trpežen
 tvoren
-tvoriti
 ublažitev
-ublažiti
 ubogljiv
 ubranost
 učen
 učinkovit
-učinkovitost
-udejanjiti
 udoben
 udobje
-udomačiti
 uglajen
 uglajenost
-uglasiti
 ugled
 ugoden
-ugoden položaj
-ugodje
 uklet
-umen
-umerjen
 umesten
-umetelen
 umetničenje
 umetnost
-umeven
 umirjenost
-umljiv
 umnost
 umstven
-univerzalni ključ
-unovčiti
-upanje
-upati
 upogljiv
 uporaba
 uporaben
-uporabljati
 uporabljiv
 upoštevanje
 upravičen
-upravičenost
-upravljati
-uravnati
 uravnotežen
 uravnovešen
 uren
-uresničiti
 uresničljiv
-uročen
-uskladiti
 usklajen
 usluga
 usmeritev
-usmeriti
-usmeriti se
 usmerjanje
 usmiljen
 usoda
-uspavati
 uspeh
 uspešen
 uspešnež
 uspešno
 uspešnost
-uspeti
 uspevanje
-uspevati
-usposobiti
 ustaliti
-ustanovitev
-ustaven
-ustreči
 ustrezen
 ustrežljiv
 ustrežljivost
@@ -1853,72 +970,42 @@ ustvarjalen
 uteha
 utemeljen
 utešiti
-uvajanje
 uvertura
 uvideven
 uvidevnost
-uvod
 užitek
 uživanje
-uživaški
-uživati
 vabljiv
-vaditi
 varčen
 varen
-varieté
-varieteta
 varnost
 varnosten
 varovalen
 varovanje
-varovati
 varstven
 varstvo
-važen
-vdajanje
 vdanost
 vdih
-vdihniti
-v drugem
-večati se
-večvrednost
-veder
 vedrina
-vektor sledenja
 veličanstvo
 veličastnost
 veličati
 veličina
-velikanski
-velikodušen
 velikodušnost
 velik ugled
-veljaven
 vera
 veren
 verjeten
-verjeti
-verodostojen
 verodostojnost
 veroizpoved
 verovanje
-verski
 verziran
 vešč
 veščina
-veseliti
-veseljačenje
-veseljačiti
 veselje
 veselost
-vest
-vesten
 vetrič
 viden
-videti
-vihteti
-virtuoz
 višek
 višji sloj
 visok položaj
@@ -1926,77 +1013,43 @@ viteška
 viteški
 viteško
 viteštvo
-vleka
 vljuden
 vljudnost
-vnema
 vodenje
 vodilen
 vodilo
-vodja
 vodljiv
-vodnjak
 vodstvo
-vojaški pozdrav
 voljnost
 voščiti
-voziti se
 vpliven
-v prometu
 vreden
 vreden biti
 vrednost
 vrednost zaupanja
-v redu
 vrh
-vrhnja stran
 vrhunec
 vrisk
 vriskanje
-vrl
 vrlina
 vrlost
-vrsta
-vrtavka
-vrtilen
 vrtilni moment
-vrvica
-vsakdanji kruh
-všeč biti
 vsestranost
 vsestranski
 vzdrževati
-vzdržljiv
 vzgajati
-vzhičen
-vzidan
-vžigalnik
-vzkipeti
 vzor
 vzpostaviti
-vztrajanje
-vzvišen
-z
 zabavati
 zabavnost
 začaran
-začetek
 začiniti
-začuden
-začudenost
-zadnjič
-zadolžen
-zadoščati
 zadosti
-zadostiti
-zadostovati
-zadovoljevati
 zadovoljitev
 zadovoljiv
 zadovoljnost
 zadovoljstvo
 zadruga
-zadržanost
 zagon
 zagotavljati
 zagotovilo
@@ -2004,109 +1057,48 @@ zagotoviti
 zahvaliti
 zahvaliti se
 zahvalnica
-zajamčiti
 zaklad
 zakonit
-zakonitost
 zakon močnejšega
 zakonski
-zalek
 zaljubljen
 zaljubljenec
-zamahniti
-zamakniti
-zamaknjen
 zamaknjenost
-zamegljen
-zamenjava
-zamisel
-zamišljati si
-zanašanje 
-zanašati se
-zanašati se na
-zanesen
 zanesljiv
 zanesljivo
 zanesljivost
-zanesti se
-zanesti se na
 zanimiv
 zapadlost
 zapeljiv
-zapopasti
-zaposlitev
-žar
-zardel
-žareč
 žarenje
 zares
-žareti
-zarja
 zaščita
 zaščiten
-zaščititi
 zaščitno pokrivalo
-zaslutiti
-zaslužek
 zaslužen
 zasluženo
 zaslužiti
 zaslužna oseba
 zaslužnost
-zastaviti
-zastonj
-zastopnik
-zatrdilo
-zatrjevanje
-zatrjevati
 zaupanje
 zaupati
-zaupen
-zaupljivost
-zaupna informacija
-zaupnik
-zaupni podatki
 zaupnost
-zavarovati
-zavedati se
 zaveza
-zavidati
-zavih
-zavzeti
 zaželen
-zaznaten
-zbiranje
-zbiranje podatkov
 zbližanje
-zboljšati
-zbran
-zdravilen
-zdravilo
-zdraviti se
-zdravstven
 združljiv
 zdržljiv
 žejen
-želeti
-želja
 željan
 željen
 željno
-zelo visok
 zenit
-žgečkanje
 žgečkati
 zgled
-zgnojiti se
-zgodovinski
-zgornja stran
 zgovornost
-živ
 živahnost
 zlahka
 zlahkoma
-z lahkoto
-žlahtnik
 zlat
 zlata jama
 zlata mrzlica
@@ -2115,31 +1107,19 @@ zlepa
 zmaga
 zmagoslavje
 zmagovalec
-zmeren
-zmogljiv
 zmogljivost
-zmožen
 zmožnost
 značilen
 znak kakovosti
 znak zmage
-znan
-znosen
 zopet
-zor
-zora
 zoreti
 zoriti
 zrasti
-zredčiti
 zrel
 zrelost
-zvedriti se
-zveneč
 z veseljem
-zvest
 zvesto
 zvestoba
 zvezdast
 zvezden
-zvišati
