@@ -11,6 +11,7 @@ from sklearn import metrics
 from sklearn.metrics import roc_auc_score
 from sklearn.linear_model import LogisticRegression as logReg
 from sklearn.feature_extraction.text import TfidfVectorizer
+import re
 
 
 def clean(text):
@@ -57,6 +58,43 @@ words = [str(comment) for comment in data['komentar'].values]
 sentiments = data['ocena'].values
 lemm = [str(comment) for comment in data2['komentar'].values]
 
+def read_lexicon(file):
+    return open(file, 'r').read().splitlines()
+
+negative_words = read_lexicon("lexicon/slovene/negative-words.txt")
+positive_words = read_lexicon("lexicon/slovene/positive-words.txt")
+
+def word_score(word):
+    """scores the given word with +1 if the word is positive, -1 if it is
+       negative and 0 otherwise. Looks at prefix instead of just whole string
+       so that it can spot words that should be in lexicon but are not there."""
+    min_stem_len, max_postfix_len = 4, 4
+    if len(word) <= min_stem_len:
+        if word in positive_words: return 1
+        if word in negative_words: return -1
+        return 0
+    interesting_positive = [w for w in positive_words if w.startswith(word[0:min_stem_len])]
+    interesting_negative = [w for w in negative_words if w.startswith(word[0:min_stem_len])]
+    for p in range(len(word), max(len(word) - max_postfix_len, min_stem_len), -1):
+        prefix = word[0:p]
+        pos = any(dict_word.startswith(prefix) for dict_word in interesting_positive)
+        neg = any(dict_word.startswith(prefix) for dict_word in interesting_negative)
+        if pos and neg: return 0
+        if pos: return 1
+        if neg: return -1
+    return 0
+
+def sentence_score(sentence):
+    "calculates score of a given sentence"
+    return np.sign(sum([word_score(word) for word in sentence.split()]))
+
+def opinion_score(opinion):
+    "calculates total score of a certain opinion"
+    sentences = re.split(r'\.|\!|\?', opinion)
+    return sum([sentence_score(sentence) for sentence in sentences])
+
+opinion_scores = [opinion_score(opinion) for opinion in lemm]
+
 tfidf = TfidfVectorizer(min_df=2, ngram_range=(1, 2))
 if lemmatize:
     content = tfidf.fit_transform(lemm)
@@ -76,7 +114,7 @@ predictions = logistic.predict_proba(content)
 
 binary_preds = logistic.predict(content)
 acc = sum([1 for i in range(len(only_5)) if binary_preds[i] == only_5[i]])*1.0/len(only_5)
-print "Accuracy on training set: %.3f" % acc
+#print "Accuracy on training set: %.3f" % acc
 
 auc = roc_auc_score(only_5, [x[1] for x in predictions])
 fpr, tpr, thresholds = metrics.roc_curve(only_5, [x[1] for x in predictions])
@@ -87,13 +125,7 @@ print "Accuracy on test set (i.e. using 10-fold CV): %.3f " % np.mean(scores)
 #plot_roc(fpr, tpr, auc)
 
 
-
-
-
-
-
 # TO DO: try a SVM, tune params, try lasso or ridge for logReg? deep learning?
-
 
 
 # UNUSED:
@@ -120,3 +152,6 @@ def print_negations(txt_list):
     print "number of negations:", counter
 
 #print_negations(lemm)
+
+# TO DO: try a SVM, tune params, try lasso or ridge for logReg? deep learning?
+
