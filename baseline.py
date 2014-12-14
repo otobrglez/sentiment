@@ -40,7 +40,7 @@ def word_score(word):
 
 def sentence_score(sentence):
     "calculates score of a given sentence"
-    return sum([word_score(word) for word in sentence.split()])
+    return np.sign(sum([word_score(word) for word in sentence.split()]))
 
 def opinion_score(opinion):
     "calculates total score of a certain opinion"
