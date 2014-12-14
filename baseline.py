@@ -36,11 +36,11 @@ def word_score(word):
     """scores the given word with +1 if the word is positive, -1 if it is
        negative and 0 otherwise. Looks at prefix instead of just whole string
        so that it can spot words that should be in lexicon but are not there."""
-    if len(word) < 5:
+    min_stem_len, max_postfix_len = 3, 5
+    if len(word) <= min_stem_len:
         if word in positive_words: return 1
         if word in negative_words: return -1
         return 0
-    min_stem_len, max_postfix_len = 4, 4
     interesting_positive = [w for w in positive_words if w.startswith(word[0:4])]
     interesting_negative = [w for w in negative_words if w.startswith(word[0:4])]
     for p in range(len(word), max(len(word) - max_postfix_len, min_stem_len), -1):
