@@ -12,6 +12,7 @@ from sklearn.metrics import roc_auc_score
 from sklearn.linear_model import LogisticRegression as logReg
 from sklearn.linear_model import LinearRegression as lin_reg
 from sklearn.feature_extraction.text import TfidfVectorizer
+import re
 
 
 def clean(text):
@@ -24,6 +25,29 @@ data = data1[['komentar', 'ocena']]
 words = [str(comment) for comment in data['komentar'].values]
 sentiments = data['ocena'].values
 lemm = [str(comment) for comment in data2['komentar'].values]
+
+def read_lexicon(file):
+    return open(file, 'r').read().splitlines()
+
+negative_words = read_lexicon("lexicon/slovene/negative-words.txt")
+positive_words = read_lexicon("lexicon/slovene/positive-words.txt")
+
+def word_score(word):
+    "scores the given word with +1 if the word is positive, -1 if it is negative and 0 otherwise"
+    if word in positive_words: return 1
+    if word in negative_words: return -1
+    return 0
+
+def sentence_score(sentence):
+    "calculates score of a given sentence"
+    return sum([word_score(word) for word in sentence.split()])
+
+def opinion_score(opinion):
+    "calculates total score of a certain opinion"
+    sentences = re.split(r' \.|\!|\? ', opinion)
+    return sum([sentence_score(sentence) for sentence in sentences])
+
+opinion_scores = [opinion_score(opinion) for opinion in lemm]
 
 tfidf = TfidfVectorizer(min_df=2, ngram_range=(1, 2))
 #content = tfidf.fit_transform(words)
