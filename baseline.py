@@ -41,8 +41,8 @@ def word_score(word):
         if word in positive_words: return 1
         if word in negative_words: return -1
         return 0
-    interesting_positive = [w for w in positive_words if w.startswith(word[0:4])]
-    interesting_negative = [w for w in negative_words if w.startswith(word[0:4])]
+    interesting_positive = [w for w in positive_words if w.startswith(word[0:min_stem_len])]
+    interesting_negative = [w for w in negative_words if w.startswith(word[0:min_stem_len])]
     for p in range(len(word), max(len(word) - max_postfix_len, min_stem_len), -1):
         prefix = word[0:p]
         pos = any(dict_word.startswith(prefix) for dict_word in interesting_positive)
