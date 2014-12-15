@@ -64,7 +64,7 @@ def read_lexicon(file):
 negative_words = read_lexicon("lexicon/slovene/negative-words.txt")
 positive_words = read_lexicon("lexicon/slovene/positive-words.txt")
 
-def word_score(word):
+def word_polarity(word):
     """scores the given word with +1 if the word is positive, -1 if it is
        negative and 0 otherwise. Looks at prefix instead of just whole string
        so that it can spot words that should be in lexicon but are not there."""
@@ -83,6 +83,14 @@ def word_score(word):
         if pos: return 1
         if neg: return -1
     return 0
+
+def word_score(word):
+    "checks the polarity of word and negates the score if the word is prepended by NOT_ negation"
+    base = 1
+    while word.startswith("NOT_"):
+        word = word[4:]
+        base *= -1
+    return word_polarity(word) * base
 
 def sentence_score(sentence):
     "calculates score of a given sentence"
